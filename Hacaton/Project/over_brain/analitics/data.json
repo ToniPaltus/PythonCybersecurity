@@ -1,0 +1,4961 @@
+[
+  {
+    "service": "apple",
+    "rank": "1",
+    "name": "STAY",
+    "artists": [
+      "The Kid LAROI",
+      "Justin Bieber"
+    ],
+    "duration": "2:21",
+    "album": "The Kid LAROI",
+    "streams": null
+  },
+  {
+    "service": "apple",
+    "rank": "2",
+    "name": "INDUSTRY BABY",
+    "artists": [
+      "Lil Nas X",
+      "Jack Harlow"
+    ],
+    "duration": "3:32",
+    "album": "Lil Nas X",
+    "streams": null
+  },
+  {
+    "service": "apple",
+    "rank": "3",
+    "name": "Happier Than Ever",
+    "artists": [
+      "Billie Eilish"
+    ],
+    "duration": "4:58",
+    "album": "Billie Eilish",
+    "streams": null
+  },
+  {
+    "service": "apple",
+    "rank": "4",
+    "name": "Need To Know",
+    "artists": [
+      "Doja Cat"
+    ],
+    "duration": "3:30",
+    "album": "Doja Cat",
+    "streams": null
+  },
+  {
+    "service": "apple",
+    "rank": "5",
+    "name": "Wants and Needs (feat. Lil Baby)",
+    "artists": [
+      "Drake"
+    ],
+    "duration": "3:12",
+    "album": "Drake",
+    "streams": null
+  },
+  {
+    "service": "apple",
+    "rank": "6",
+    "name": "good 4 u",
+    "artists": [
+      "Olivia Rodrigo"
+    ],
+    "duration": "2:58",
+    "album": "Olivia Rodrigo",
+    "streams": null
+  },
+  {
+    "service": "apple",
+    "rank": "7",
+    "name": "Volv\u00ed",
+    "artists": [
+      "Aventura",
+      "Bad Bunny"
+    ],
+    "duration": "3:50",
+    "album": "Aventura",
+    "streams": null
+  },
+  {
+    "service": "apple",
+    "rank": "8",
+    "name": "EVERY CHANCE I GET (feat. Lil Baby & Lil Durk)",
+    "artists": [
+      "DJ Khaled"
+    ],
+    "duration": "3:56",
+    "album": "DJ Khaled",
+    "streams": null
+  },
+  {
+    "service": "apple",
+    "rank": "9",
+    "name": "Ain't Shit",
+    "artists": [
+      "Doja Cat"
+    ],
+    "duration": "2:54",
+    "album": "Doja Cat",
+    "streams": null
+  },
+  {
+    "service": "apple",
+    "rank": "10",
+    "name": "RAPSTAR",
+    "artists": [
+      "Polo G"
+    ],
+    "duration": "2:45",
+    "album": "Polo G",
+    "streams": null
+  },
+  {
+    "service": "apple",
+    "rank": "11",
+    "name": "Rumors",
+    "artists": [
+      "Lizzo",
+      "Cardi B"
+    ],
+    "duration": "2:52",
+    "album": "Lizzo",
+    "streams": null
+  },
+  {
+    "service": "apple",
+    "rank": "12",
+    "name": "Essence (feat. Tems)",
+    "artists": [
+      "Wizkid"
+    ],
+    "duration": "4:09",
+    "album": "Wizkid",
+    "streams": null
+  },
+  {
+    "service": "apple",
+    "rank": "13",
+    "name": "Kiss Me More (feat. SZA)",
+    "artists": [
+      "Doja Cat"
+    ],
+    "duration": "3:28",
+    "album": "Doja Cat",
+    "streams": null
+  },
+  {
+    "service": "apple",
+    "rank": "14",
+    "name": "Wockesha",
+    "artists": [
+      "Moneybagg Yo"
+    ],
+    "duration": "3:00",
+    "album": "Moneybagg Yo",
+    "streams": null
+  },
+  {
+    "service": "apple",
+    "rank": "15",
+    "name": "Hats Off",
+    "artists": [
+      "Lil Baby",
+      "Lil Durk",
+      "Travis Scott"
+    ],
+    "duration": "4:17",
+    "album": "Lil Baby",
+    "streams": null
+  },
+  {
+    "service": "apple",
+    "rank": "16",
+    "name": "Mind of Melvin (feat. Lil Uzi Vert)",
+    "artists": [
+      "YNW Melly"
+    ],
+    "duration": "3:50",
+    "album": "YNW Melly",
+    "streams": null
+  },
+  {
+    "service": "apple",
+    "rank": "17",
+    "name": "Pepas",
+    "artists": [
+      "Farruko"
+    ],
+    "duration": "4:47",
+    "album": "Farruko",
+    "streams": null
+  },
+  {
+    "service": "apple",
+    "rank": "18",
+    "name": "Late At Night",
+    "artists": [
+      "Roddy Ricch"
+    ],
+    "duration": "2:54",
+    "album": "Roddy Ricch",
+    "streams": null
+  },
+  {
+    "service": "apple",
+    "rank": "19",
+    "name": "traitor",
+    "artists": [
+      "Olivia Rodrigo"
+    ],
+    "duration": "3:49",
+    "album": "Olivia Rodrigo",
+    "streams": null
+  },
+  {
+    "service": "apple",
+    "rank": "20",
+    "name": "GYALIS",
+    "artists": [
+      "Capella Grey"
+    ],
+    "duration": "1:45",
+    "album": "Capella Grey",
+    "streams": null
+  },
+  {
+    "service": "apple",
+    "rank": "21",
+    "name": "2055",
+    "artists": [
+      "Sleepy Hallow"
+    ],
+    "duration": "2:03",
+    "album": "Sleepy Hallow",
+    "streams": null
+  },
+  {
+    "service": "apple",
+    "rank": "22",
+    "name": "Bad Habits",
+    "artists": [
+      "Ed Sheeran"
+    ],
+    "duration": "3:51",
+    "album": "Ed Sheeran",
+    "streams": null
+  },
+  {
+    "service": "apple",
+    "rank": "23",
+    "name": "5500 Degrees (feat. Lil Baby, 42 Dugg & Rylo Rodriguez)",
+    "artists": [
+      "EST Gee"
+    ],
+    "duration": "3:04",
+    "album": "EST Gee",
+    "streams": null
+  },
+  {
+    "service": "apple",
+    "rank": "24",
+    "name": "Fancy Like",
+    "artists": [
+      "Walker Hayes"
+    ],
+    "duration": "2:41",
+    "album": "Walker Hayes",
+    "streams": null
+  },
+  {
+    "service": "apple",
+    "rank": "25",
+    "name": "Todo De Ti",
+    "artists": [
+      "Rauw Alejandro"
+    ],
+    "duration": "3:19",
+    "album": "Rauw Alejandro",
+    "streams": null
+  },
+  {
+    "service": "apple",
+    "rank": "26",
+    "name": "Take Kare (feat. Lil Baby & Lil Durk)",
+    "artists": [
+      "YNW Melly"
+    ],
+    "duration": "4:28",
+    "album": "YNW Melly",
+    "streams": null
+  },
+  {
+    "service": "apple",
+    "rank": "27",
+    "name": "Yonaguni",
+    "artists": [
+      "Bad Bunny"
+    ],
+    "duration": "3:26",
+    "album": "Bad Bunny",
+    "streams": null
+  },
+  {
+    "service": "apple",
+    "rank": "28",
+    "name": "Thot Shit",
+    "artists": [
+      "Megan Thee Stallion"
+    ],
+    "duration": "3:04",
+    "album": "Megan Thee Stallion",
+    "streams": null
+  },
+  {
+    "service": "apple",
+    "rank": "29",
+    "name": "Nevada",
+    "artists": [
+      "YoungBoy Never Broke Again"
+    ],
+    "duration": "2:35",
+    "album": "YoungBoy Never Broke Again",
+    "streams": null
+  },
+  {
+    "service": "apple",
+    "rank": "30",
+    "name": "SUVs (Black on Black)",
+    "artists": [
+      "Jack Harlow",
+      "Pooh Shiesty"
+    ],
+    "duration": "2:37",
+    "album": "Jack Harlow",
+    "streams": null
+  },
+  {
+    "service": "apple",
+    "rank": "31",
+    "name": "Back in Blood (feat. Lil Durk)",
+    "artists": [
+      "Pooh Shiesty"
+    ],
+    "duration": "3:04",
+    "album": "Pooh Shiesty",
+    "streams": null
+  },
+  {
+    "service": "apple",
+    "rank": "32",
+    "name": "Heat Waves",
+    "artists": [
+      "Glass Animals"
+    ],
+    "duration": "3:58",
+    "album": "Glass Animals",
+    "streams": null
+  },
+  {
+    "service": "apple",
+    "rank": "33",
+    "name": "2040",
+    "artists": [
+      "Lil Baby",
+      "Lil Durk"
+    ],
+    "duration": "3:12",
+    "album": "Lil Baby",
+    "streams": null
+  },
+  {
+    "service": "apple",
+    "rank": "34",
+    "name": "Drankin N Smokin",
+    "artists": [
+      "Future",
+      "Lil Uzi Vert"
+    ],
+    "duration": "3:33",
+    "album": "Future",
+    "streams": null
+  },
+  {
+    "service": "apple",
+    "rank": "35",
+    "name": "Woman",
+    "artists": [
+      "Doja Cat"
+    ],
+    "duration": "2:52",
+    "album": "Doja Cat",
+    "streams": null
+  },
+  {
+    "service": "apple",
+    "rank": "36",
+    "name": "deja vu",
+    "artists": [
+      "Olivia Rodrigo"
+    ],
+    "duration": "3:35",
+    "album": "Olivia Rodrigo",
+    "streams": null
+  },
+  {
+    "service": "apple",
+    "rank": "37",
+    "name": "Get Into It (Yuh)",
+    "artists": [
+      "Doja Cat"
+    ],
+    "duration": "2:18",
+    "album": "Doja Cat",
+    "streams": null
+  },
+  {
+    "service": "apple",
+    "rank": "38",
+    "name": "For The Night (feat. Lil Baby & DaBaby)",
+    "artists": [
+      "Pop Smoke"
+    ],
+    "duration": "3:10",
+    "album": "Pop Smoke",
+    "streams": null
+  },
+  {
+    "service": "apple",
+    "rank": "39",
+    "name": "Leave The Door Open",
+    "artists": [
+      "Bruno Mars",
+      "Anderson .Paak",
+      "Silk Sonic"
+    ],
+    "duration": "4:02",
+    "album": "Bruno Mars",
+    "streams": null
+  },
+  {
+    "service": "apple",
+    "rank": "40",
+    "name": "Before I Go (feat. Rod Wave)",
+    "artists": [
+      "Kodak Black"
+    ],
+    "duration": "3:24",
+    "album": "Kodak Black",
+    "streams": null
+  },
+  {
+    "service": "apple",
+    "rank": "41",
+    "name": "You Right",
+    "artists": [
+      "Doja Cat",
+      "The Weeknd"
+    ],
+    "duration": "3:06",
+    "album": "Doja Cat",
+    "streams": null
+  },
+  {
+    "service": "apple",
+    "rank": "42",
+    "name": "Memory",
+    "artists": [
+      "Kane Brown",
+      "blackbear"
+    ],
+    "duration": "2:33",
+    "album": "Kane Brown",
+    "streams": null
+  },
+  {
+    "service": "apple",
+    "rank": "43",
+    "name": "Lil Bit",
+    "artists": [
+      "Nelly",
+      "Florida Georgia Line"
+    ],
+    "duration": "3:15",
+    "album": "Nelly",
+    "streams": null
+  },
+  {
+    "service": "apple",
+    "rank": "44",
+    "name": "4 Da Gang",
+    "artists": [
+      "42 Dugg",
+      "Roddy Ricch"
+    ],
+    "duration": "2:35",
+    "album": "42 Dugg",
+    "streams": null
+  },
+  {
+    "service": "apple",
+    "rank": "45",
+    "name": "Take My Breath",
+    "artists": [
+      "The Weeknd"
+    ],
+    "duration": "3:40",
+    "album": "The Weeknd",
+    "streams": null
+  },
+  {
+    "service": "apple",
+    "rank": "46",
+    "name": "Maybach (feat. Future)",
+    "artists": [
+      "42 Dugg"
+    ],
+    "duration": "3:19",
+    "album": "42 Dugg",
+    "streams": null
+  },
+  {
+    "service": "apple",
+    "rank": "47",
+    "name": "Wild Side (feat. Cardi B)",
+    "artists": [
+      "Normani"
+    ],
+    "duration": "3:29",
+    "album": "Normani",
+    "streams": null
+  },
+  {
+    "service": "apple",
+    "rank": "48",
+    "name": "Essence (feat. Justin Bieber & Tems)",
+    "artists": [
+      "Wizkid"
+    ],
+    "duration": "4:23",
+    "album": "Wizkid",
+    "streams": null
+  },
+  {
+    "service": "apple",
+    "rank": "49",
+    "name": "D\u00c1KITI",
+    "artists": [
+      "Bad Bunny",
+      "Jhay Cortez"
+    ],
+    "duration": "3:25",
+    "album": "Bad Bunny",
+    "streams": null
+  },
+  {
+    "service": "apple",
+    "rank": "50",
+    "name": "Astronaut In The Ocean",
+    "artists": [
+      "Masked Wolf"
+    ],
+    "duration": "2:12",
+    "album": "Masked Wolf",
+    "streams": null
+  },
+  {
+    "service": "apple",
+    "rank": "51",
+    "name": "HEARTBREAK ANNIVERSARY",
+    "artists": [
+      "GIV\u0112ON"
+    ],
+    "duration": "3:16",
+    "album": "GIV\u0112ON",
+    "streams": null
+  },
+  {
+    "service": "apple",
+    "rank": "52",
+    "name": "WHOLE LOTTA MONEY (Remix)",
+    "artists": [
+      "BIA",
+      "Nicki Minaj"
+    ],
+    "duration": "3:49",
+    "album": "BIA",
+    "streams": null
+  },
+  {
+    "service": "apple",
+    "rank": "53",
+    "name": "Still Runnin",
+    "artists": [
+      "Lil Baby",
+      "Lil Durk",
+      "Meek Mill"
+    ],
+    "duration": "2:53",
+    "album": "Lil Baby",
+    "streams": null
+  },
+  {
+    "service": "apple",
+    "rank": "54",
+    "name": "Peaches (feat. Daniel Caesar & GIV\u0112ON)",
+    "artists": [
+      "Justin Bieber"
+    ],
+    "duration": "3:18",
+    "album": "Justin Bieber",
+    "streams": null
+  },
+  {
+    "service": "apple",
+    "rank": "55",
+    "name": "Time Today",
+    "artists": [
+      "Moneybagg Yo"
+    ],
+    "duration": "2:16",
+    "album": "Moneybagg Yo",
+    "streams": null
+  },
+  {
+    "service": "apple",
+    "rank": "56",
+    "name": "How It Feels",
+    "artists": [
+      "Lil Baby",
+      "Lil Durk"
+    ],
+    "duration": "2:46",
+    "album": "Lil Baby",
+    "streams": null
+  },
+  {
+    "service": "apple",
+    "rank": "57",
+    "name": "Hellcats & Trackhawks",
+    "artists": [
+      "Only The Family",
+      "Lil Durk"
+    ],
+    "duration": "2:26",
+    "album": "Only The Family",
+    "streams": null
+  },
+  {
+    "service": "apple",
+    "rank": "58",
+    "name": "Tombstone",
+    "artists": [
+      "Rod Wave"
+    ],
+    "duration": "2:40",
+    "album": "Rod Wave",
+    "streams": null
+  },
+  {
+    "service": "apple",
+    "rank": "59",
+    "name": "Outside",
+    "artists": [
+      "MO3",
+      "OG Bobby Billions"
+    ],
+    "duration": "3:35",
+    "album": "MO3",
+    "streams": null
+  },
+  {
+    "service": "apple",
+    "rank": "60",
+    "name": "Paralyzed",
+    "artists": [
+      "Sueco"
+    ],
+    "duration": "2:42",
+    "album": "Sueco",
+    "streams": null
+  },
+  {
+    "service": "apple",
+    "rank": "61",
+    "name": "Senseless",
+    "artists": [
+      "Kodak Black"
+    ],
+    "duration": "2:23",
+    "album": "Kodak Black",
+    "streams": null
+  },
+  {
+    "service": "apple",
+    "rank": "62",
+    "name": "MONTERO (Call Me By Your Name)",
+    "artists": [
+      "Lil Nas X"
+    ],
+    "duration": "2:17",
+    "album": "Lil Nas X",
+    "streams": null
+  },
+  {
+    "service": "apple",
+    "rank": "63",
+    "name": "Save Your Tears (Remix)",
+    "artists": [
+      "The Weeknd",
+      "Ariana Grande"
+    ],
+    "duration": "3:11",
+    "album": "The Weeknd",
+    "streams": null
+  },
+  {
+    "service": "apple",
+    "rank": "64",
+    "name": "Over the Top (feat. Drake)",
+    "artists": [
+      "Smiley"
+    ],
+    "duration": "2:33",
+    "album": "Smiley",
+    "streams": null
+  },
+  {
+    "service": "apple",
+    "rank": "65",
+    "name": "WUSYANAME (feat. YoungBoy Never Broke Again & Ty Dolla $ign)",
+    "artists": [
+      "Tyler, The Creator"
+    ],
+    "duration": "2:01",
+    "album": "Tyler, The Creator",
+    "streams": null
+  },
+  {
+    "service": "apple",
+    "rank": "66",
+    "name": "Martin & Gina",
+    "artists": [
+      "Polo G"
+    ],
+    "duration": "2:12",
+    "album": "Polo G",
+    "streams": null
+  },
+  {
+    "service": "apple",
+    "rank": "67",
+    "name": "On Me",
+    "artists": [
+      "Lil Baby"
+    ],
+    "duration": "2:15",
+    "album": "Lil Baby",
+    "streams": null
+  },
+  {
+    "service": "apple",
+    "rank": "68",
+    "name": "Skate",
+    "artists": [
+      "Bruno Mars",
+      "Anderson .Paak",
+      "Silk Sonic"
+    ],
+    "duration": "3:23",
+    "album": "Bruno Mars",
+    "streams": null
+  },
+  {
+    "service": "apple",
+    "rank": "69",
+    "name": "p r i d e . i s . t h e . d e v i l",
+    "artists": [
+      "J. Cole",
+      "Lil Baby"
+    ],
+    "duration": "3:38",
+    "album": "J. Cole",
+    "streams": null
+  },
+  {
+    "service": "apple",
+    "rank": "70",
+    "name": "Beggin",
+    "artists": [
+      "M\u00e5neskin"
+    ],
+    "duration": "3:31",
+    "album": "M\u00e5neskin",
+    "streams": null
+  },
+  {
+    "service": "apple",
+    "rank": "71",
+    "name": "Street Runner",
+    "artists": [
+      "Rod Wave"
+    ],
+    "duration": "4:12",
+    "album": "Rod Wave",
+    "streams": null
+  },
+  {
+    "service": "apple",
+    "rank": "72",
+    "name": "drivers license",
+    "artists": [
+      "Olivia Rodrigo"
+    ],
+    "duration": "4:02",
+    "album": "Olivia Rodrigo",
+    "streams": null
+  },
+  {
+    "service": "apple",
+    "rank": "73",
+    "name": "favorite crime",
+    "artists": [
+      "Olivia Rodrigo"
+    ],
+    "duration": "2:32",
+    "album": "Olivia Rodrigo",
+    "streams": null
+  },
+  {
+    "service": "apple",
+    "rank": "74",
+    "name": "Who I Want",
+    "artists": [
+      "Lil Baby",
+      "Lil Durk"
+    ],
+    "duration": "2:53",
+    "album": "Lil Baby",
+    "streams": null
+  },
+  {
+    "service": "apple",
+    "rank": "75",
+    "name": "m y . l i f e",
+    "artists": [
+      "J. Cole",
+      "21 Savage",
+      "Morray"
+    ],
+    "duration": "3:38",
+    "album": "J. Cole",
+    "streams": null
+  },
+  {
+    "service": "apple",
+    "rank": "76",
+    "name": "Okay",
+    "artists": [
+      "Lil Baby",
+      "Lil Durk"
+    ],
+    "duration": "3:36",
+    "album": "Lil Baby",
+    "streams": null
+  },
+  {
+    "service": "apple",
+    "rank": "77",
+    "name": "Chosen (feat. Ty Dolla $ign)",
+    "artists": [
+      "Blxst",
+      "Tyga"
+    ],
+    "duration": "2:41",
+    "album": "Blxst",
+    "streams": null
+  },
+  {
+    "service": "apple",
+    "rank": "78",
+    "name": "REPEAT IT",
+    "artists": [
+      "Lil Tecca",
+      "Gunna"
+    ],
+    "duration": "3:10",
+    "album": "Lil Tecca",
+    "streams": null
+  },
+  {
+    "service": "apple",
+    "rank": "79",
+    "name": "Blinding Lights",
+    "artists": [
+      "The Weeknd"
+    ],
+    "duration": "3:21",
+    "album": "The Weeknd",
+    "streams": null
+  },
+  {
+    "service": "apple",
+    "rank": "80",
+    "name": "A-O-K",
+    "artists": [
+      "Tai Verdes"
+    ],
+    "duration": "2:53",
+    "album": "Tai Verdes",
+    "streams": null
+  },
+  {
+    "service": "apple",
+    "rank": "81",
+    "name": "Good Days",
+    "artists": [
+      "SZA"
+    ],
+    "duration": "4:39",
+    "album": "SZA",
+    "streams": null
+  },
+  {
+    "service": "apple",
+    "rank": "82",
+    "name": "No Role Modelz",
+    "artists": [
+      "J. Cole"
+    ],
+    "duration": "4:52",
+    "album": "J. Cole",
+    "streams": null
+  },
+  {
+    "service": "apple",
+    "rank": "83",
+    "name": "NOT SOBER (feat. Polo G & Stunna Gambino)",
+    "artists": [
+      "The Kid LAROI"
+    ],
+    "duration": "3:36",
+    "album": "The Kid LAROI",
+    "streams": null
+  },
+  {
+    "service": "apple",
+    "rank": "84",
+    "name": "Levitating (feat. DaBaby)",
+    "artists": [
+      "Dua Lipa"
+    ],
+    "duration": "3:23",
+    "album": "Dua Lipa",
+    "streams": null
+  },
+  {
+    "service": "apple",
+    "rank": "85",
+    "name": "Voice of the Heroes",
+    "artists": [
+      "Lil Baby",
+      "Lil Durk"
+    ],
+    "duration": "3:29",
+    "album": "Lil Baby",
+    "streams": null
+  },
+  {
+    "service": "apple",
+    "rank": "86",
+    "name": "Real As It Gets (feat. EST Gee)",
+    "artists": [
+      "Lil Baby"
+    ],
+    "duration": "3:12",
+    "album": "Lil Baby",
+    "streams": null
+  },
+  {
+    "service": "apple",
+    "rank": "87",
+    "name": "3 Headed Goat (feat. Lil Baby & Polo G)",
+    "artists": [
+      "Lil Durk"
+    ],
+    "duration": "2:49",
+    "album": "Lil Durk",
+    "streams": null
+  },
+  {
+    "service": "apple",
+    "rank": "88",
+    "name": "Damage",
+    "artists": [
+      "H.E.R."
+    ],
+    "duration": "3:43",
+    "album": "H.E.R.",
+    "streams": null
+  },
+  {
+    "service": "apple",
+    "rank": "89",
+    "name": "Forever After All",
+    "artists": [
+      "Luke Combs"
+    ],
+    "duration": "3:52",
+    "album": "Luke Combs",
+    "streams": null
+  },
+  {
+    "service": "apple",
+    "rank": "90",
+    "name": "Motley Crew",
+    "artists": [
+      "Post Malone"
+    ],
+    "duration": "3:04",
+    "album": "Post Malone",
+    "streams": null
+  },
+  {
+    "service": "apple",
+    "rank": "91",
+    "name": "happier",
+    "artists": [
+      "Olivia Rodrigo"
+    ],
+    "duration": "2:55",
+    "album": "Olivia Rodrigo",
+    "streams": null
+  },
+  {
+    "service": "apple",
+    "rank": "92",
+    "name": "No Guidance (feat. Drake)",
+    "artists": [
+      "Chris Brown"
+    ],
+    "duration": "4:20",
+    "album": "Chris Brown",
+    "streams": null
+  },
+  {
+    "service": "apple",
+    "rank": "93",
+    "name": "Solid (feat. Drake)",
+    "artists": [
+      "Young Stoner Life",
+      "Young Thug",
+      "Gunna"
+    ],
+    "duration": "3:35",
+    "album": "Young Stoner Life",
+    "streams": null
+  },
+  {
+    "service": "apple",
+    "rank": "94",
+    "name": "i hope ur miserable until ur dead",
+    "artists": [
+      "Nessa Barrett"
+    ],
+    "duration": "2:56",
+    "album": "Nessa Barrett",
+    "streams": null
+  },
+  {
+    "service": "apple",
+    "rank": "95",
+    "name": "Shottas (Lala)",
+    "artists": [
+      "Moneybagg Yo"
+    ],
+    "duration": "2:02",
+    "album": "Moneybagg Yo",
+    "streams": null
+  },
+  {
+    "service": "apple",
+    "rank": "96",
+    "name": "Wasting Time (feat. Drake)",
+    "artists": [
+      "Brent Faiyaz"
+    ],
+    "duration": "5:01",
+    "album": "Brent Faiyaz",
+    "streams": null
+  },
+  {
+    "service": "apple",
+    "rank": "98",
+    "name": "Holy Smokes (feat. Lil Uzi Vert)",
+    "artists": [
+      "Trippie Redd"
+    ],
+    "duration": "3:01",
+    "album": "Trippie Redd",
+    "streams": null
+  },
+  {
+    "service": "apple",
+    "rank": "99",
+    "name": "Ski",
+    "artists": [
+      "Young Stoner Life",
+      "Young Thug",
+      "Gunna"
+    ],
+    "duration": "2:32",
+    "album": "Young Stoner Life",
+    "streams": null
+  },
+  {
+    "service": "apple",
+    "rank": "100",
+    "name": "His & Hers (feat. Gunna)",
+    "artists": [
+      "Internet Money",
+      "Don Toliver",
+      "Lil Uzi Vert"
+    ],
+    "duration": "3:44",
+    "album": "Internet Money",
+    "streams": null
+  },
+  {
+    "service": "youtube",
+    "rank": "1",
+    "name": "Paani Paani",
+    "artists": [
+      "Badshah",
+      "Aastha Gill"
+    ],
+    "duration": "3:12",
+    "album": null,
+    "streams": null
+  },
+  {
+    "service": "youtube",
+    "rank": "2",
+    "name": "Bachpan Ka Pyaar (Official Video) Badshah, Sahdev Dirdo, Aastha Gill, Rico",
+    "artists": [
+      "Badshah"
+    ],
+    "duration": "3:04",
+    "album": null,
+    "streams": null
+  },
+  {
+    "service": "youtube",
+    "rank": "3",
+    "name": "Aventura, Bad Bunny - Volv\u00ed (Video Oficial)",
+    "artists": [
+      "Aventura",
+      "Bad Bunny",
+      "Romeo Santos"
+    ],
+    "duration": "3:52",
+    "album": null,
+    "streams": null
+  },
+  {
+    "service": "youtube",
+    "rank": "4",
+    "name": "Take My Breath (Official Music Video)",
+    "artists": [
+      "The Weeknd"
+    ],
+    "duration": "3:45",
+    "album": null,
+    "streams": null
+  },
+  {
+    "service": "youtube",
+    "rank": "5",
+    "name": "Yonaguni",
+    "artists": [
+      "Bad Bunny"
+    ],
+    "duration": "3:28",
+    "album": null,
+    "streams": null
+  },
+  {
+    "service": "youtube",
+    "rank": "6",
+    "name": "Permission to Dance",
+    "artists": [
+      "BTS"
+    ],
+    "duration": "5:00",
+    "album": null,
+    "streams": null
+  },
+  {
+    "service": "youtube",
+    "rank": "7",
+    "name": "Pepas (Official Video)",
+    "artists": [
+      "Farruko"
+    ],
+    "duration": "4:54",
+    "album": null,
+    "streams": null
+  },
+  {
+    "service": "youtube",
+    "rank": "8",
+    "name": "Qu\u00e9 M\u00e1s Pues? (Official Video)",
+    "artists": [
+      "Maria Becerra",
+      "J Balvin"
+    ],
+    "duration": "3:37",
+    "album": null,
+    "streams": null
+  },
+  {
+    "service": "youtube",
+    "rank": "9",
+    "name": "STAY (Official Video)",
+    "artists": [
+      "Justin Bieber",
+      "The Kid Laroi"
+    ],
+    "duration": "2:38",
+    "album": null,
+    "streams": null
+  },
+  {
+    "service": "youtube",
+    "rank": "10",
+    "name": "Filhaal2 Mohabbat | Akshay Kumar Ft Nupur Sanon | Ammy Virk | BPraak | Jaani | Arvindr Khaira",
+    "artists": [
+      "DM - Desi Melodies"
+    ],
+    "duration": "5:25",
+    "album": null,
+    "streams": null
+  },
+  {
+    "service": "youtube",
+    "rank": "11",
+    "name": "Baarish Ban Jaana",
+    "artists": [
+      "Stebin Ben",
+      "Payal Dev"
+    ],
+    "duration": "4:12",
+    "album": null,
+    "streams": null
+  },
+  {
+    "service": "youtube",
+    "rank": "12",
+    "name": "Pudina Ae Haseena",
+    "artists": [
+      "Anupama Yadav",
+      "Pawan Singh"
+    ],
+    "duration": "4:00",
+    "album": null,
+    "streams": null
+  },
+  {
+    "service": "youtube",
+    "rank": "13",
+    "name": "Pepas (Audio)",
+    "artists": [
+      "Farruko"
+    ],
+    "duration": "4:48",
+    "album": null,
+    "streams": null
+  },
+  {
+    "service": "youtube",
+    "rank": "14",
+    "name": "Todo De Ti",
+    "artists": [
+      "Rauw Alejandro"
+    ],
+    "duration": "3:32",
+    "album": null,
+    "streams": null
+  },
+  {
+    "service": "youtube",
+    "rank": "15",
+    "name": "Bewafa Tera Muskurana Song | Meet Bros Ft. Jubin Nautiyal |Himansh K,Akanksha P|Rashmi V Bhushan K",
+    "artists": [
+      "T-Series"
+    ],
+    "duration": "5:46",
+    "album": null,
+    "streams": null
+  },
+  {
+    "service": "youtube",
+    "rank": "16",
+    "name": "Lut Gaye",
+    "artists": [
+      "Jubin Nautiyal"
+    ],
+    "duration": "4:58",
+    "album": null,
+    "streams": null
+  },
+  {
+    "service": "youtube",
+    "rank": "17",
+    "name": "Ram Pam Pam",
+    "artists": [
+      "Natti Natasha",
+      "Becky G"
+    ],
+    "duration": "3:39",
+    "album": null,
+    "streams": null
+  },
+  {
+    "service": "youtube",
+    "rank": "18",
+    "name": "Entre Nosotros",
+    "artists": [
+      "Tiago PZK",
+      "Lit Killah"
+    ],
+    "duration": "3:43",
+    "album": null,
+    "streams": null
+  },
+  {
+    "service": "youtube",
+    "rank": "19",
+    "name": "Marjaawaan",
+    "artists": [
+      "Saregama Music"
+    ],
+    "duration": "3:21",
+    "album": null,
+    "streams": null
+  },
+  {
+    "service": "youtube",
+    "rank": "20",
+    "name": "Butter",
+    "artists": [
+      "BTS"
+    ],
+    "duration": "3:03",
+    "album": null,
+    "streams": null
+  },
+  {
+    "service": "youtube",
+    "rank": "21",
+    "name": "Nab\u0131z",
+    "artists": [
+      "Kurtulu\u015f Ku\u015f",
+      "Burak Bulut"
+    ],
+    "duration": "3:19",
+    "album": null,
+    "streams": null
+  },
+  {
+    "service": "youtube",
+    "rank": "22",
+    "name": "EL MAKINON (Official Video)",
+    "artists": [
+      "Karol G",
+      "Mariah Angeliq "
+    ],
+    "duration": "3:34",
+    "album": null,
+    "streams": null
+  },
+  {
+    "service": "youtube",
+    "rank": "23",
+    "name": "Chatak Matak",
+    "artists": [
+      "Renuka Panwar"
+    ],
+    "duration": "2:41",
+    "album": null,
+    "streams": null
+  },
+  {
+    "service": "youtube",
+    "rank": "24",
+    "name": "Se For Amor",
+    "artists": [
+      "Jo\u00e3o Gomes",
+      "Vitor Fernandes"
+    ],
+    "duration": "4:03",
+    "album": null,
+    "streams": null
+  },
+  {
+    "service": "youtube",
+    "rank": "25",
+    "name": "INDUSTRY BABY (Official Video)",
+    "artists": [
+      "Jack Harlow",
+      "Lil Nas X"
+    ],
+    "duration": "3:56",
+    "album": null,
+    "streams": null
+  },
+  {
+    "service": "youtube",
+    "rank": "26",
+    "name": "Baby me Atende",
+    "artists": [
+      "Matheus Fernandes",
+      "Dilsinho"
+    ],
+    "duration": "3:46",
+    "album": null,
+    "streams": null
+  },
+  {
+    "service": "youtube",
+    "rank": "27",
+    "name": "Pi Li Pudina",
+    "artists": [
+      "Pawan Singh",
+      "Priyanka Singh"
+    ],
+    "duration": "3:58",
+    "album": null,
+    "streams": null
+  },
+  {
+    "service": "youtube",
+    "rank": "28",
+    "name": "Bad Habits",
+    "artists": [
+      "Ed Sheeran"
+    ],
+    "duration": "4:01",
+    "album": null,
+    "streams": null
+  },
+  {
+    "service": "youtube",
+    "rank": "29",
+    "name": "You're Welcome (from Moana/Official Video)",
+    "artists": [
+      "Dwayne Johnson"
+    ],
+    "duration": "2:49",
+    "album": null,
+    "streams": null
+  },
+  {
+    "service": "youtube",
+    "rank": "30",
+    "name": "Barsaat Ki Dhun",
+    "artists": [
+      "Anu Malik",
+      "Jubin Nautiyal",
+      "Rochak Kohli"
+    ],
+    "duration": "5:42",
+    "album": null,
+    "streams": null
+  },
+  {
+    "service": "youtube",
+    "rank": "31",
+    "name": "52 Gaj Ka Daman",
+    "artists": [
+      "MJ",
+      "Renuka Panwar"
+    ],
+    "duration": "3:11",
+    "album": null,
+    "streams": null
+  },
+  {
+    "service": "youtube",
+    "rank": "32",
+    "name": "Nio Garcia x J Balvin x Bad Bunny - AM Remix",
+    "artists": [
+      "Nio Garcia",
+      "Bad Bunny",
+      "J Balvin"
+    ],
+    "duration": "4:30",
+    "album": null,
+    "streams": null
+  },
+  {
+    "service": "youtube",
+    "rank": "33",
+    "name": "Param Sundari",
+    "artists": [
+      "Shreya Ghoshal",
+      " A. R. Rahman"
+    ],
+    "duration": "3:01",
+    "album": null,
+    "streams": null
+  },
+  {
+    "service": "youtube",
+    "rank": "34",
+    "name": "Raataan Lambiyan (From \"Shershaah\")",
+    "artists": [
+      "Jubin Nautiyal",
+      "Asees Kaur",
+      "Tanishk Bagchi"
+    ],
+    "duration": "2:32",
+    "album": null,
+    "streams": null
+  },
+  {
+    "service": "youtube",
+    "rank": "35",
+    "name": "Save Your Tears (Official Music Video)",
+    "artists": [
+      "The Weeknd"
+    ],
+    "duration": "4:09",
+    "album": null,
+    "streams": null
+  },
+  {
+    "service": "youtube",
+    "rank": "36",
+    "name": "Zaalima Coca Cola",
+    "artists": [],
+    "duration": "2:32",
+    "album": null,
+    "streams": null
+  },
+  {
+    "service": "youtube",
+    "rank": "37",
+    "name": "Grupo Firme -  Ya Superame - (Official Video)",
+    "artists": [
+      "Grupo Firme"
+    ],
+    "duration": "3:21",
+    "album": null,
+    "streams": null
+  },
+  {
+    "service": "youtube",
+    "rank": "38",
+    "name": "Happier Than Ever (Official Music Video)",
+    "artists": [
+      "Billie Eilish"
+    ],
+    "duration": "5:16",
+    "album": null,
+    "streams": null
+  },
+  {
+    "service": "youtube",
+    "rank": "39",
+    "name": "good 4 u (Official Video)",
+    "artists": [
+      "Olivia Rodrigo"
+    ],
+    "duration": "3:19",
+    "album": null,
+    "streams": null
+  },
+  {
+    "service": "youtube",
+    "rank": "40",
+    "name": "#Pawan Singh \u0915\u093e \u0930\u093f\u0915\u0949\u0930\u094d\u0921 \u092c\u0928\u093e\u0928\u0947 \u0935\u093e\u0932\u093e \u0917\u093e\u0928\u093e | \u0932\u0947 \u0932\u0947 \u092a\u0941\u0926\u0940\u0928\u093e Dj_Remix_Song | Pudina Ae Haseena | Ft. Maahi",
+    "artists": [
+      "Bhojpuri Express"
+    ],
+    "duration": "3:38",
+    "album": null,
+    "streams": null
+  },
+  {
+    "service": "youtube",
+    "rank": "41",
+    "name": "Mi\u00e9nteme (Official Video)",
+    "artists": [
+      "Maria Becerra",
+      "TINI"
+    ],
+    "duration": "3:03",
+    "album": null,
+    "streams": null
+  },
+  {
+    "service": "youtube",
+    "rank": "42",
+    "name": "Ranjha \u2013 Official Video | Shershaah | Sidharth \u2013 Kiara | B Praak | Jasleen Royal | Anvita Dutt",
+    "artists": [
+      "Sony Music India"
+    ],
+    "duration": "3:14",
+    "album": null,
+    "streams": null
+  },
+  {
+    "service": "youtube",
+    "rank": "43",
+    "name": "Botella Tras Botella",
+    "artists": [
+      "Gera Mx",
+      "Christian Nodal"
+    ],
+    "duration": "3:27",
+    "album": null,
+    "streams": null
+  },
+  {
+    "service": "youtube",
+    "rank": "44",
+    "name": "Build a Bitch",
+    "artists": [
+      "Bella Poarch"
+    ],
+    "duration": "2:50",
+    "album": null,
+    "streams": null
+  },
+  {
+    "service": "youtube",
+    "rank": "45",
+    "name": "Fulanito (Official Video)",
+    "artists": [
+      "El Alfa",
+      "Becky G"
+    ],
+    "duration": "2:46",
+    "album": null,
+    "streams": null
+  },
+  {
+    "service": "youtube",
+    "rank": "46",
+    "name": "No Me Conocen (Remix) [con DUKI, Rei & Tiago PZK] (feat. Tiago PZK)",
+    "artists": [
+      "REI",
+      "Bandido",
+      "Duki"
+    ],
+    "duration": "4:41",
+    "album": null,
+    "streams": null
+  },
+  {
+    "service": "youtube",
+    "rank": "47",
+    "name": "DUMB DUMB",
+    "artists": [
+      "SOMI"
+    ],
+    "duration": "2:59",
+    "album": null,
+    "streams": null
+  },
+  {
+    "service": "youtube",
+    "rank": "48",
+    "name": "Dynamite",
+    "artists": [
+      "BTS"
+    ],
+    "duration": "3:44",
+    "album": null,
+    "streams": null
+  },
+  {
+    "service": "youtube",
+    "rank": "49",
+    "name": "Manike Mage Hithe (Malayalam & Tamil Version)",
+    "artists": [],
+    "duration": "2:48",
+    "album": null,
+    "streams": null
+  },
+  {
+    "service": "youtube",
+    "rank": "50",
+    "name": "Baarish Ban Jaana (Bhojpuri)",
+    "artists": [
+      "Pawan Singh",
+      "Payal Dev"
+    ],
+    "duration": "3:26",
+    "album": null,
+    "streams": null
+  },
+  {
+    "service": "youtube",
+    "rank": "51",
+    "name": "Beggin\u2019",
+    "artists": [
+      "M\u00e5neskin"
+    ],
+    "duration": "3:31",
+    "album": null,
+    "streams": null
+  },
+  {
+    "service": "youtube",
+    "rank": "52",
+    "name": "Loco",
+    "artists": [
+      "Chimbala",
+      "Zion & Lennox",
+      "Justin Quiles"
+    ],
+    "duration": "4:01",
+    "album": null,
+    "streams": null
+  },
+  {
+    "service": "youtube",
+    "rank": "53",
+    "name": "Don Omar - Danza Kuduro | REMIX | Long Version",
+    "artists": [
+      "Gangster City"
+    ],
+    "duration": "7:48",
+    "album": null,
+    "streams": null
+  },
+  {
+    "service": "youtube",
+    "rank": "54",
+    "name": "Volando (Remix)",
+    "artists": [
+      "Mora",
+      "Bad Bunny",
+      "Sech"
+    ],
+    "duration": "4:34",
+    "album": null,
+    "streams": null
+  },
+  {
+    "service": "youtube",
+    "rank": "55",
+    "name": "Sonu Sood : Saath Kya Nibhaoge - Tony Kakkar | Farah Khan | Niddhi Agerwal |Altaf Raja | Anshul Garg",
+    "artists": [
+      "Tony Kakkar"
+    ],
+    "duration": "3:56",
+    "album": null,
+    "streams": null
+  },
+  {
+    "service": "youtube",
+    "rank": "56",
+    "name": "Poblado (feat. Crissin, Natan & Shander & Totoy El Frio)",
+    "artists": [
+      "Crissin",
+      "Natan & Shander",
+      "Totoy El Frio"
+    ],
+    "duration": "6:39",
+    "album": null,
+    "streams": null
+  },
+  {
+    "service": "youtube",
+    "rank": "57",
+    "name": "HD VIDEO | \u092c\u091a\u092a\u0928 \u0915\u093e \u092a\u094d\u092f\u093e\u0930 \u092e\u0947\u0930\u093e \u092d\u0942\u0932 \u0928\u0939\u0940\u0902 \u091c\u093e\u0928\u093e \u0930\u0947 | Ankush Raja, Neha Raj | Bhojpuri Hit Song 2021",
+    "artists": [
+      "Ankush Raja"
+    ],
+    "duration": "3:44",
+    "album": null,
+    "streams": null
+  },
+  {
+    "service": "youtube",
+    "rank": "58",
+    "name": "Bedardi Se Pyaar Ka",
+    "artists": [
+      "Jubin Nautiyal",
+      "Meet Bros"
+    ],
+    "duration": "5:40",
+    "album": null,
+    "streams": null
+  },
+  {
+    "service": "youtube",
+    "rank": "59",
+    "name": "Jalebi Baby (Official Video)",
+    "artists": [
+      "Jason Derulo",
+      "Tesher"
+    ],
+    "duration": "3:34",
+    "album": null,
+    "streams": null
+  },
+  {
+    "service": "youtube",
+    "rank": "60",
+    "name": "Never Gonna Give You Up",
+    "artists": [
+      "Rick Astley"
+    ],
+    "duration": "3:33",
+    "album": null,
+    "streams": null
+  },
+  {
+    "service": "youtube",
+    "rank": "61",
+    "name": "Sobrio (Official Video)",
+    "artists": [
+      "Maluma"
+    ],
+    "duration": "3:56",
+    "album": null,
+    "streams": null
+  },
+  {
+    "service": "youtube",
+    "rank": "62",
+    "name": "Ficha Limpa",
+    "artists": [
+      "Gusttavo Lima"
+    ],
+    "duration": "3:21",
+    "album": null,
+    "streams": null
+  },
+  {
+    "service": "youtube",
+    "rank": "63",
+    "name": "X @DT.Bilardo - VISIONARIO",
+    "artists": [
+      "L-Gante"
+    ],
+    "duration": "4:17",
+    "album": null,
+    "streams": null
+  },
+  {
+    "service": "youtube",
+    "rank": "64",
+    "name": "Thoda Thoda Pyaar",
+    "artists": [
+      "Stebin Ben",
+      "Nilesh Ahuja"
+    ],
+    "duration": "4:33",
+    "album": null,
+    "streams": null
+  },
+  {
+    "service": "youtube",
+    "rank": "65",
+    "name": "Bullettu Bandi",
+    "artists": [
+      "Mohana"
+    ],
+    "duration": "5:04",
+    "album": null,
+    "streams": null
+  },
+  {
+    "service": "youtube",
+    "rank": "66",
+    "name": "Pareja Del A\u00f1o",
+    "artists": [
+      "Myke Towers",
+      "Sebasti\u00e1n Yatra"
+    ],
+    "duration": "3:28",
+    "album": null,
+    "streams": null
+  },
+  {
+    "service": "youtube",
+    "rank": "67",
+    "name": "Dil Ko Karaar Aaya (From \"Sukoon\")",
+    "artists": [
+      "Yasser Desai",
+      "Neha Kakkar"
+    ],
+    "duration": "4:11",
+    "album": null,
+    "streams": null
+  },
+  {
+    "service": "youtube",
+    "rank": "68",
+    "name": "DIL KO KARRAR AAYA Reprise - Neha Kakkar | Rajat Nagpal | Rana | Anshul Garg | Hindi Song 2021",
+    "artists": [
+      "Desi Music Factory"
+    ],
+    "duration": "4:05",
+    "album": null,
+    "streams": null
+  },
+  {
+    "service": "youtube",
+    "rank": "69",
+    "name": "You can't sit with us",
+    "artists": [
+      "SUNMI"
+    ],
+    "duration": "4:49",
+    "album": null,
+    "streams": null
+  },
+  {
+    "service": "youtube",
+    "rank": "70",
+    "name": "Ni\u00f1a de la Escuela",
+    "artists": [
+      "Belinda",
+      "TINI",
+      "Lola Indigo"
+    ],
+    "duration": "3:25",
+    "album": null,
+    "streams": null
+  },
+  {
+    "service": "youtube",
+    "rank": "71",
+    "name": "Brown Munde",
+    "artists": [
+      "Gurinder Gill",
+      "Shinda Kahlon",
+      "AP Dhillon"
+    ],
+    "duration": "4:28",
+    "album": null,
+    "streams": null
+  },
+  {
+    "service": "youtube",
+    "rank": "72",
+    "name": "Kiss Me More (feat. SZA)",
+    "artists": [
+      "Doja Cat"
+    ],
+    "duration": "5:16",
+    "album": null,
+    "streams": null
+  },
+  {
+    "service": "youtube",
+    "rank": "73",
+    "name": "A Cara do Crime (N\u00f3s Incomoda)",
+    "artists": [
+      "Bielzin",
+      "Mc Poze do Rodo",
+      "Neo Beats",
+      "PL Quest"
+    ],
+    "duration": "5:03",
+    "album": null,
+    "streams": null
+  },
+  {
+    "service": "youtube",
+    "rank": "74",
+    "name": "MORENA",
+    "artists": [
+      "Luan Santana"
+    ],
+    "duration": "3:23",
+    "album": null,
+    "streams": null
+  },
+  {
+    "service": "youtube",
+    "rank": "75",
+    "name": "Ram Pam Pam",
+    "artists": [
+      "Natti Natasha",
+      "Becky G"
+    ],
+    "duration": "3:27",
+    "album": null,
+    "streams": null
+  },
+  {
+    "service": "youtube",
+    "rank": "76",
+    "name": "Lil Nas X - MONTERO (Call Me By Your Name) (Official Video)",
+    "artists": [
+      "Lil Nas X"
+    ],
+    "duration": "3:10",
+    "album": null,
+    "streams": null
+  },
+  {
+    "service": "youtube",
+    "rank": "77",
+    "name": "Kurtulu\u015f Ku\u015f & Burak Bulut - Sevmedim Deme",
+    "artists": [
+      "netd m\u00fczik"
+    ],
+    "duration": "2:32",
+    "album": null,
+    "streams": null
+  },
+  {
+    "service": "youtube",
+    "rank": "78",
+    "name": "Barsaat Ke Mausam Mein | Naajayaz | Naseeruddin Shah | Kumar Sanu | Roop Kumar Rathod",
+    "artists": [
+      "Bollywood Hits"
+    ],
+    "duration": "5:26",
+    "album": null,
+    "streams": null
+  },
+  {
+    "service": "youtube",
+    "rank": "79",
+    "name": "Sefo - Bilmem Mi? (prod.by Aerro)",
+    "artists": [
+      "Sefo"
+    ],
+    "duration": "3:07",
+    "album": null,
+    "streams": null
+  },
+  {
+    "service": "youtube",
+    "rank": "80",
+    "name": "Tiroteo (Remix)",
+    "artists": [
+      "Rauw Alejandro",
+      "Marc Segu\u00ed",
+      "Pol Granch"
+    ],
+    "duration": "5:22",
+    "album": null,
+    "streams": null
+  },
+  {
+    "service": "youtube",
+    "rank": "81",
+    "name": "Baarish Ki Jaaye | B Praak Ft Nawazuddin Siddiqui & Sunanda Sharma | Jaani | Arvindr Khaira | DM",
+    "artists": [
+      "DM - Desi Melodies"
+    ],
+    "duration": "5:05",
+    "album": null,
+    "streams": null
+  },
+  {
+    "service": "youtube",
+    "rank": "82",
+    "name": "Senta Danada",
+    "artists": [
+      "Z\u00e9 Felipe",
+      "Os Bar\u00f5es Da Pisadinha"
+    ],
+    "duration": "2:57",
+    "album": null,
+    "streams": null
+  },
+  {
+    "service": "youtube",
+    "rank": "83",
+    "name": "MATU\u00ca - QUER VOAR \ud83e\udd87\ud83e\udd87\ud83e\udd87",
+    "artists": [
+      "Matue"
+    ],
+    "duration": "4:31",
+    "album": null,
+    "streams": null
+  },
+  {
+    "service": "youtube",
+    "rank": "84",
+    "name": "Teri Meri Kahani | Happy Hardy And Heer | Himesh Reshammiya | Ranu Mondal | Sonia Mann",
+    "artists": [
+      "Bollywood Hits"
+    ],
+    "duration": "4:56",
+    "album": null,
+    "streams": null
+  },
+  {
+    "service": "youtube",
+    "rank": "85",
+    "name": "\u0e23\u0e31\u0e01\u0e04\u0e27\u0e23\u0e21\u0e35\u0e2a\u0e2d\u0e07\u0e04\u0e19  - \u0e17\u0e35\u0e21\u0e40\u0e21\u0e35\u0e22(\u0e1e\u0e23 \u0e08\u0e31\u0e19\u0e17\u0e1e\u0e23) vs \u0e17\u0e35\u0e21\u0e0a\u0e39\u0e49(\u0e40\u0e19\u0e22 \u0e20\u0e31\u0e2a\u0e27\u0e23\u0e23\u0e13) [ MV VERSION ]",
+    "artists": [
+      "\u0e1e\u0e2d\u0e14\u0e35\u0e21\u0e48\u0e27\u0e19 STUDIO"
+    ],
+    "duration": "5:06",
+    "album": null,
+    "streams": null
+  },
+  {
+    "service": "youtube",
+    "rank": "86",
+    "name": "GOAT",
+    "artists": [
+      "Sidhu Moose Wala"
+    ],
+    "duration": "4:06",
+    "album": null,
+    "streams": null
+  },
+  {
+    "service": "youtube",
+    "rank": "87",
+    "name": "El Bint El Awiye",
+    "artists": [
+      "Wael Kfoury"
+    ],
+    "duration": "4:00",
+    "album": null,
+    "streams": null
+  },
+  {
+    "service": "youtube",
+    "rank": "88",
+    "name": "2/Catorce",
+    "artists": [
+      "Rauw Alejandro",
+      "Mr. NaisGai"
+    ],
+    "duration": "3:33",
+    "album": null,
+    "streams": null
+  },
+  {
+    "service": "youtube",
+    "rank": "89",
+    "name": "Need To Know (Official Video)",
+    "artists": [
+      "Doja Cat"
+    ],
+    "duration": "3:40",
+    "album": null,
+    "streams": null
+  },
+  {
+    "service": "youtube",
+    "rank": "90",
+    "name": "Full Song - Roohi | Janhvi Kapoor| Sachin-Jigar | Shamur | Ra...",
+    "artists": [
+      "Shamur",
+      "Sachin\u2013Jigar",
+      "IP Singh",
+      "Rashmeet Kaur"
+    ],
+    "duration": "2:43",
+    "album": null,
+    "streams": null
+  },
+  {
+    "service": "youtube",
+    "rank": "91",
+    "name": "3107 3 (feat. Titie, Duongg & nau.)",
+    "artists": [
+      "W/n"
+    ],
+    "duration": "3:55",
+    "album": null,
+    "streams": null
+  },
+  {
+    "service": "youtube",
+    "rank": "92",
+    "name": "Baawla",
+    "artists": [
+      "Badshah",
+      "Uchana Amit"
+    ],
+    "duration": "3:03",
+    "album": null,
+    "streams": null
+  },
+  {
+    "service": "youtube",
+    "rank": "93",
+    "name": "Rampampam (Vadim Adamov & Hardphol Remix)",
+    "artists": [
+      "Minelli"
+    ],
+    "duration": "3:21",
+    "album": null,
+    "streams": null
+  },
+  {
+    "service": "youtube",
+    "rank": "94",
+    "name": "295 (Official Audio) | Sidhu Moose Wala | The Kidd | Moosetape",
+    "artists": [
+      "Sidhu Moose Wala"
+    ],
+    "duration": "4:33",
+    "album": null,
+    "streams": null
+  },
+  {
+    "service": "youtube",
+    "rank": "95",
+    "name": "What is Love?",
+    "artists": [
+      "TWICE"
+    ],
+    "duration": "3:44",
+    "album": null,
+    "streams": null
+  },
+  {
+    "service": "youtube",
+    "rank": "96",
+    "name": "YaMeFui",
+    "artists": [
+      "Bizarrap",
+      "Duki",
+      "Nicki Nicole"
+    ],
+    "duration": "3:07",
+    "album": null,
+    "streams": null
+  },
+  {
+    "service": "youtube",
+    "rank": "97",
+    "name": "200 Copas (Official Video)",
+    "artists": [
+      "Karol G"
+    ],
+    "duration": "3:23",
+    "album": null,
+    "streams": null
+  },
+  {
+    "service": "youtube",
+    "rank": "98",
+    "name": "Beggin\u2019",
+    "artists": [
+      "M\u00e5neskin"
+    ],
+    "duration": "3:33",
+    "album": null,
+    "streams": null
+  },
+  {
+    "service": "youtube",
+    "rank": "99",
+    "name": "In Da Club",
+    "artists": [
+      "50 Cent"
+    ],
+    "duration": "4:08",
+    "album": null,
+    "streams": null
+  },
+  {
+    "service": "youtube",
+    "rank": "100",
+    "name": "Bipolar",
+    "artists": [
+      "MC Don Juan",
+      "Mc Pedrinho",
+      "Mc Davi"
+    ],
+    "duration": "5:02",
+    "album": null,
+    "streams": null
+  },
+  {
+    "service": "spotify",
+    "rank": "1",
+    "name": "STAY (with Justin Bieber)",
+    "artists": [
+      "by The Kid LAROI"
+    ],
+    "streams": "61,564,095",
+    "duration": null,
+    "album": null
+  },
+  {
+    "service": "spotify",
+    "rank": "2",
+    "name": "Beggin'",
+    "artists": [
+      "by M\u00e5neskin"
+    ],
+    "streams": "40,391,324",
+    "duration": null,
+    "album": null
+  },
+  {
+    "service": "spotify",
+    "rank": "3",
+    "name": "INDUSTRY BABY (feat. Jack Harlow)",
+    "artists": [
+      "by Lil Nas X"
+    ],
+    "streams": "39,868,624",
+    "duration": null,
+    "album": null
+  },
+  {
+    "service": "spotify",
+    "rank": "4",
+    "name": "Bad Habits",
+    "artists": [
+      "by Ed Sheeran"
+    ],
+    "streams": "36,835,047",
+    "duration": null,
+    "album": null
+  },
+  {
+    "service": "spotify",
+    "rank": "5",
+    "name": "good 4 u",
+    "artists": [
+      "by Olivia Rodrigo"
+    ],
+    "streams": "34,440,020",
+    "duration": null,
+    "album": null
+  },
+  {
+    "service": "spotify",
+    "rank": "6",
+    "name": "Happier Than Ever",
+    "artists": [
+      "by Billie Eilish"
+    ],
+    "streams": "32,904,896",
+    "duration": null,
+    "album": null
+  },
+  {
+    "service": "spotify",
+    "rank": "7",
+    "name": "Take My Breath",
+    "artists": [
+      "by The Weeknd"
+    ],
+    "streams": "26,610,944",
+    "duration": null,
+    "album": null
+  },
+  {
+    "service": "spotify",
+    "rank": "8",
+    "name": "Kiss Me More (feat. SZA)",
+    "artists": [
+      "by Doja Cat"
+    ],
+    "streams": "26,400,469",
+    "duration": null,
+    "album": null
+  },
+  {
+    "service": "spotify",
+    "rank": "9",
+    "name": "MONTERO (Call Me By Your Name)",
+    "artists": [
+      "by Lil Nas X"
+    ],
+    "streams": "26,255,732",
+    "duration": null,
+    "album": null
+  },
+  {
+    "service": "spotify",
+    "rank": "10",
+    "name": "Volv\u00ed",
+    "artists": [
+      "by Aventura",
+      "Bad Bunny"
+    ],
+    "streams": "25,261,084",
+    "duration": null,
+    "album": null
+  },
+  {
+    "service": "spotify",
+    "rank": "11",
+    "name": "Need To Know",
+    "artists": [
+      "by Doja Cat"
+    ],
+    "streams": "24,905,309",
+    "duration": null,
+    "album": null
+  },
+  {
+    "service": "spotify",
+    "rank": "12",
+    "name": "Todo De Ti",
+    "artists": [
+      "by Rauw Alejandro"
+    ],
+    "streams": "24,055,680",
+    "duration": null,
+    "album": null
+  },
+  {
+    "service": "spotify",
+    "rank": "13",
+    "name": "Pepas",
+    "artists": [
+      "by Farruko"
+    ],
+    "streams": "23,563,881",
+    "duration": null,
+    "album": null
+  },
+  {
+    "service": "spotify",
+    "rank": "14",
+    "name": "I WANNA BE YOUR SLAVE",
+    "artists": [
+      "by M\u00e5neskin"
+    ],
+    "streams": "22,141,329",
+    "duration": null,
+    "album": null
+  },
+  {
+    "service": "spotify",
+    "rank": "15",
+    "name": "Yonaguni",
+    "artists": [
+      "by Bad Bunny"
+    ],
+    "streams": "21,674,116",
+    "duration": null,
+    "album": null
+  },
+  {
+    "service": "spotify",
+    "rank": "16",
+    "name": "Qu\u00e9 M\u00e1s Pues?",
+    "artists": [
+      "by J Balvin",
+      "Maria Becerra"
+    ],
+    "streams": "20,396,947",
+    "duration": null,
+    "album": null
+  },
+  {
+    "service": "spotify",
+    "rank": "17",
+    "name": "Levitating (feat. DaBaby)",
+    "artists": [
+      "by Dua Lipa"
+    ],
+    "streams": "19,928,219",
+    "duration": null,
+    "album": null
+  },
+  {
+    "service": "spotify",
+    "rank": "18",
+    "name": "traitor",
+    "artists": [
+      "by Olivia Rodrigo"
+    ],
+    "streams": "18,995,629",
+    "duration": null,
+    "album": null
+  },
+  {
+    "service": "spotify",
+    "rank": "19",
+    "name": "Peaches (feat. Daniel Caesar & Giveon)",
+    "artists": [
+      "by Justin Bieber"
+    ],
+    "streams": "18,282,030",
+    "duration": null,
+    "album": null
+  },
+  {
+    "service": "spotify",
+    "rank": "20",
+    "name": "Save Your Tears (with Ariana Grande) (Remix)",
+    "artists": [
+      "by The Weeknd"
+    ],
+    "streams": "17,075,818",
+    "duration": null,
+    "album": null
+  },
+  {
+    "service": "spotify",
+    "rank": "21",
+    "name": "Butter",
+    "artists": [
+      "by BTS"
+    ],
+    "streams": "16,303,121",
+    "duration": null,
+    "album": null
+  },
+  {
+    "service": "spotify",
+    "rank": "22",
+    "name": "Permission to Dance",
+    "artists": [
+      "by BTS"
+    ],
+    "streams": "16,035,330",
+    "duration": null,
+    "album": null
+  },
+  {
+    "service": "spotify",
+    "rank": "23",
+    "name": "AM Remix",
+    "artists": [
+      "by Nio Garcia",
+      "J Balvin",
+      "Bad Bunny"
+    ],
+    "streams": "15,865,191",
+    "duration": null,
+    "album": null
+  },
+  {
+    "service": "spotify",
+    "rank": "24",
+    "name": "deja vu",
+    "artists": [
+      "by Olivia Rodrigo"
+    ],
+    "streams": "15,756,183",
+    "duration": null,
+    "album": null
+  },
+  {
+    "service": "spotify",
+    "rank": "25",
+    "name": "Volando - Remix",
+    "artists": [
+      "by Mora",
+      "Bad Bunny",
+      "Sech"
+    ],
+    "streams": "14,754,809",
+    "duration": null,
+    "album": null
+  },
+  {
+    "service": "spotify",
+    "rank": "26",
+    "name": "Blinding Lights",
+    "artists": [
+      "by The Weeknd"
+    ],
+    "streams": "14,730,758",
+    "duration": null,
+    "album": null
+  },
+  {
+    "service": "spotify",
+    "rank": "27",
+    "name": "Woman",
+    "artists": [
+      "by Doja Cat"
+    ],
+    "streams": "14,729,258",
+    "duration": null,
+    "album": null
+  },
+  {
+    "service": "spotify",
+    "rank": "28",
+    "name": "Ain't Shit",
+    "artists": [
+      "by Doja Cat"
+    ],
+    "streams": "14,560,977",
+    "duration": null,
+    "album": null
+  },
+  {
+    "service": "spotify",
+    "rank": "29",
+    "name": "drivers license",
+    "artists": [
+      "by Olivia Rodrigo"
+    ],
+    "streams": "14,405,910",
+    "duration": null,
+    "album": null
+  },
+  {
+    "service": "spotify",
+    "rank": "30",
+    "name": "Heat Waves",
+    "artists": [
+      "by Glass Animals"
+    ],
+    "streams": "14,388,852",
+    "duration": null,
+    "album": null
+  },
+  {
+    "service": "spotify",
+    "rank": "31",
+    "name": "Leave The Door Open",
+    "artists": [
+      "by Bruno Mars",
+      "Anderson .Paak",
+      "Silk Sonic"
+    ],
+    "streams": "13,805,295",
+    "duration": null,
+    "album": null
+  },
+  {
+    "service": "spotify",
+    "rank": "32",
+    "name": "happier",
+    "artists": [
+      "by Olivia Rodrigo"
+    ],
+    "streams": "12,945,812",
+    "duration": null,
+    "album": null
+  },
+  {
+    "service": "spotify",
+    "rank": "33",
+    "name": "Friday (feat. Mufasa & Hypeman) - Dopamine Re-Edit",
+    "artists": [
+      "by Riton",
+      "Nightcrawlers"
+    ],
+    "streams": "12,872,772",
+    "duration": null,
+    "album": null
+  },
+  {
+    "service": "spotify",
+    "rank": "34",
+    "name": "Entre Nosotros",
+    "artists": [
+      "by Tiago PZK",
+      "LIT killah"
+    ],
+    "streams": "12,481,788",
+    "duration": null,
+    "album": null
+  },
+  {
+    "service": "spotify",
+    "rank": "35",
+    "name": "911 - Remix",
+    "artists": [
+      "by Sech",
+      "Jhay Cortez"
+    ],
+    "streams": "12,431,398",
+    "duration": null,
+    "album": null
+  },
+  {
+    "service": "spotify",
+    "rank": "36",
+    "name": "Astronaut In The Ocean",
+    "artists": [
+      "by Masked Wolf"
+    ],
+    "streams": "12,032,653",
+    "duration": null,
+    "album": null
+  },
+  {
+    "service": "spotify",
+    "rank": "37",
+    "name": "Par\u00eds",
+    "artists": [
+      "by Ingratax"
+    ],
+    "streams": "11,634,865",
+    "duration": null,
+    "album": null
+  },
+  {
+    "service": "spotify",
+    "rank": "38",
+    "name": "Don't Go Yet",
+    "artists": [
+      "by Camila Cabello"
+    ],
+    "streams": "11,611,132",
+    "duration": null,
+    "album": null
+  },
+  {
+    "service": "spotify",
+    "rank": "39",
+    "name": "Watermelon Sugar",
+    "artists": [
+      "by Harry Styles"
+    ],
+    "streams": "11,444,866",
+    "duration": null,
+    "album": null
+  },
+  {
+    "service": "spotify",
+    "rank": "40",
+    "name": "2055",
+    "artists": [
+      "by Sleepy Hallow"
+    ],
+    "streams": "11,367,692",
+    "duration": null,
+    "album": null
+  },
+  {
+    "service": "spotify",
+    "rank": "41",
+    "name": "Pareja Del A\u00f1o",
+    "artists": [
+      "by Sebastian Yatra",
+      "Myke Towers"
+    ],
+    "streams": "11,318,276",
+    "duration": null,
+    "album": null
+  },
+  {
+    "service": "spotify",
+    "rank": "42",
+    "name": "jealousy, jealousy",
+    "artists": [
+      "by Olivia Rodrigo"
+    ],
+    "streams": "10,947,834",
+    "duration": null,
+    "album": null
+  },
+  {
+    "service": "spotify",
+    "rank": "43",
+    "name": "D\u00c1KITI",
+    "artists": [
+      "by Bad Bunny",
+      "Jhay Cortez"
+    ],
+    "streams": "10,943,711",
+    "duration": null,
+    "album": null
+  },
+  {
+    "service": "spotify",
+    "rank": "44",
+    "name": "Mi\u00e9nteme",
+    "artists": [
+      "by TINI",
+      "Maria Becerra"
+    ],
+    "streams": "10,938,310",
+    "duration": null,
+    "album": null
+  },
+  {
+    "service": "spotify",
+    "rank": "45",
+    "name": "favorite crime",
+    "artists": [
+      "by Olivia Rodrigo"
+    ],
+    "streams": "10,916,989",
+    "duration": null,
+    "album": null
+  },
+  {
+    "service": "spotify",
+    "rank": "46",
+    "name": "Sobrio",
+    "artists": [
+      "by Maluma"
+    ],
+    "streams": "10,673,817",
+    "duration": null,
+    "album": null
+  },
+  {
+    "service": "spotify",
+    "rank": "47",
+    "name": "RAPSTAR",
+    "artists": [
+      "by Polo G"
+    ],
+    "streams": "10,288,157",
+    "duration": null,
+    "album": null
+  },
+  {
+    "service": "spotify",
+    "rank": "48",
+    "name": "Tiroteo - Remix",
+    "artists": [
+      "by Marc Segu\u00ed",
+      "Rauw Alejandro",
+      "Pol Granch"
+    ],
+    "streams": "10,199,312",
+    "duration": null,
+    "album": null
+  },
+  {
+    "service": "spotify",
+    "rank": "49",
+    "name": "Love Tonight - Edit",
+    "artists": [
+      "by Shouse"
+    ],
+    "streams": "9,970,367",
+    "duration": null,
+    "album": null
+  },
+  {
+    "service": "spotify",
+    "rank": "50",
+    "name": "Dynamite",
+    "artists": [
+      "by BTS"
+    ],
+    "streams": "9,880,338",
+    "duration": null,
+    "album": null
+  },
+  {
+    "service": "spotify",
+    "rank": "51",
+    "name": "Poblado - Remix",
+    "artists": [
+      "by J Balvin",
+      "KAROL G",
+      "Nicky Jam",
+      "Crissin",
+      "Totoy El Frio",
+      "Natan & Shander"
+    ],
+    "streams": "9,863,912",
+    "duration": null,
+    "album": null
+  },
+  {
+    "service": "spotify",
+    "rank": "52",
+    "name": "Mood (feat. iann dior)",
+    "artists": [
+      "by 24kGoldn"
+    ],
+    "streams": "9,682,621",
+    "duration": null,
+    "album": null
+  },
+  {
+    "service": "spotify",
+    "rank": "53",
+    "name": "The Business",
+    "artists": [
+      "by Ti\u00ebsto"
+    ],
+    "streams": "9,610,592",
+    "duration": null,
+    "album": null
+  },
+  {
+    "service": "spotify",
+    "rank": "54",
+    "name": "Motley Crew",
+    "artists": [
+      "by Post Malone"
+    ],
+    "streams": "9,604,260",
+    "duration": null,
+    "album": null
+  },
+  {
+    "service": "spotify",
+    "rank": "55",
+    "name": "Freaks",
+    "artists": [
+      "by Surf Curse"
+    ],
+    "streams": "9,474,480",
+    "duration": null,
+    "album": null
+  },
+  {
+    "service": "spotify",
+    "rank": "56",
+    "name": "Skate",
+    "artists": [
+      "by Bruno Mars",
+      "Anderson .Paak",
+      "Silk Sonic"
+    ],
+    "streams": "9,299,224",
+    "duration": null,
+    "album": null
+  },
+  {
+    "service": "spotify",
+    "rank": "57",
+    "name": "Heartbreak Anthem (with David Guetta & Little Mix)",
+    "artists": [
+      "by Galantis"
+    ],
+    "streams": "9,222,322",
+    "duration": null,
+    "album": null
+  },
+  {
+    "service": "spotify",
+    "rank": "58",
+    "name": "Loco",
+    "artists": [
+      "by Justin Quiles",
+      "Chimbala",
+      "Zion & Lennox"
+    ],
+    "streams": "9,162,379",
+    "duration": null,
+    "album": null
+  },
+  {
+    "service": "spotify",
+    "rank": "59",
+    "name": "NDA",
+    "artists": [
+      "by Billie Eilish"
+    ],
+    "streams": "9,014,691",
+    "duration": null,
+    "album": null
+  },
+  {
+    "service": "spotify",
+    "rank": "60",
+    "name": "C\u00farame",
+    "artists": [
+      "by Rauw Alejandro"
+    ],
+    "streams": "8,939,868",
+    "duration": null,
+    "album": null
+  },
+  {
+    "service": "spotify",
+    "rank": "61",
+    "name": "Save Your Tears",
+    "artists": [
+      "by The Weeknd"
+    ],
+    "streams": "8,744,481",
+    "duration": null,
+    "album": null
+  },
+  {
+    "service": "spotify",
+    "rank": "62",
+    "name": "Leave Before You Love Me (with Jonas Brothers)",
+    "artists": [
+      "by Marshmello"
+    ],
+    "streams": "8,720,839",
+    "duration": null,
+    "album": null
+  },
+  {
+    "service": "spotify",
+    "rank": "63",
+    "name": "You Right",
+    "artists": [
+      "by Doja Cat",
+      "The Weeknd"
+    ],
+    "streams": "8,618,871",
+    "duration": null,
+    "album": null
+  },
+  {
+    "service": "spotify",
+    "rank": "64",
+    "name": "Meu Peda\u00e7o de Pecado",
+    "artists": [
+      "by Jo\u00e3o Gomes"
+    ],
+    "streams": "8,570,541",
+    "duration": null,
+    "album": null
+  },
+  {
+    "service": "spotify",
+    "rank": "65",
+    "name": "Don't Start Now",
+    "artists": [
+      "by Dua Lipa"
+    ],
+    "streams": "8,570,255",
+    "duration": null,
+    "album": null
+  },
+  {
+    "service": "spotify",
+    "rank": "66",
+    "name": "Rasputin",
+    "artists": [
+      "by Majestic",
+      "Boney M."
+    ],
+    "streams": "8,503,267",
+    "duration": null,
+    "album": null
+  },
+  {
+    "service": "spotify",
+    "rank": "67",
+    "name": "Someone You Loved",
+    "artists": [
+      "by Lewis Capaldi"
+    ],
+    "streams": "8,409,687",
+    "duration": null,
+    "album": null
+  },
+  {
+    "service": "spotify",
+    "rank": "68",
+    "name": "Sweater Weather",
+    "artists": [
+      "by The Neighbourhood"
+    ],
+    "streams": "8,395,055",
+    "duration": null,
+    "album": null
+  },
+  {
+    "service": "spotify",
+    "rank": "69",
+    "name": "Fiel - Remix",
+    "artists": [
+      "by Wisin",
+      "Jhay Cortez",
+      "Anuel AA",
+      "Los Legendarios",
+      "Myke Towers"
+    ],
+    "streams": "8,352,336",
+    "duration": null,
+    "album": null
+  },
+  {
+    "service": "spotify",
+    "rank": "70",
+    "name": "Arcade",
+    "artists": [
+      "by Duncan Laurence"
+    ],
+    "streams": "8,345,101",
+    "duration": null,
+    "album": null
+  },
+  {
+    "service": "spotify",
+    "rank": "71",
+    "name": "In Da Getto",
+    "artists": [
+      "by J Balvin",
+      "Skrillex"
+    ],
+    "streams": "8,301,571",
+    "duration": null,
+    "album": null
+  },
+  {
+    "service": "spotify",
+    "rank": "72",
+    "name": "Run",
+    "artists": [
+      "by OneRepublic"
+    ],
+    "streams": "8,255,452",
+    "duration": null,
+    "album": null
+  },
+  {
+    "service": "spotify",
+    "rank": "73",
+    "name": "positions",
+    "artists": [
+      "by Ariana Grande"
+    ],
+    "streams": "8,206,508",
+    "duration": null,
+    "album": null
+  },
+  {
+    "service": "spotify",
+    "rank": "74",
+    "name": "Heartbreak Anniversary",
+    "artists": [
+      "by Giveon"
+    ],
+    "streams": "8,049,008",
+    "duration": null,
+    "album": null
+  },
+  {
+    "service": "spotify",
+    "rank": "75",
+    "name": "Beautiful Mistakes (feat. Megan Thee Stallion)",
+    "artists": [
+      "by Maroon 5"
+    ],
+    "streams": "7,957,989",
+    "duration": null,
+    "album": null
+  },
+  {
+    "service": "spotify",
+    "rank": "76",
+    "name": "Love Again",
+    "artists": [
+      "by Dua Lipa"
+    ],
+    "streams": "7,890,938",
+    "duration": null,
+    "album": null
+  },
+  {
+    "service": "spotify",
+    "rank": "77",
+    "name": "Thot Shit",
+    "artists": [
+      "by Megan Thee Stallion"
+    ],
+    "streams": "7,737,883",
+    "duration": null,
+    "album": null
+  },
+  {
+    "service": "spotify",
+    "rank": "78",
+    "name": "brutal",
+    "artists": [
+      "by Olivia Rodrigo"
+    ],
+    "streams": "7,641,819",
+    "duration": null,
+    "album": null
+  },
+  {
+    "service": "spotify",
+    "rank": "79",
+    "name": "double take",
+    "artists": [
+      "by dhruv"
+    ],
+    "streams": "7,618,124",
+    "duration": null,
+    "album": null
+  },
+  {
+    "service": "spotify",
+    "rank": "80",
+    "name": "Your Love (9PM)",
+    "artists": [
+      "by ATB",
+      "Topic",
+      "A7S"
+    ],
+    "streams": "7,577,299",
+    "duration": null,
+    "album": null
+  },
+  {
+    "service": "spotify",
+    "rank": "81",
+    "name": "NOT SOBER (feat. Polo G & Stunna Gambino)",
+    "artists": [
+      "by The Kid LAROI"
+    ],
+    "streams": "7,493,354",
+    "duration": null,
+    "album": null
+  },
+  {
+    "service": "spotify",
+    "rank": "82",
+    "name": "Levitating",
+    "artists": [
+      "by Dua Lipa"
+    ],
+    "streams": "7,421,571",
+    "duration": null,
+    "album": null
+  },
+  {
+    "service": "spotify",
+    "rank": "83",
+    "name": "telepat\u00eda",
+    "artists": [
+      "by Kali Uchis"
+    ],
+    "streams": "7,409,249",
+    "duration": null,
+    "album": null
+  },
+  {
+    "service": "spotify",
+    "rank": "84",
+    "name": "Build a Bitch",
+    "artists": [
+      "by Bella Poarch"
+    ],
+    "streams": "7,404,966",
+    "duration": null,
+    "album": null
+  },
+  {
+    "service": "spotify",
+    "rank": "85",
+    "name": "2/Catorce",
+    "artists": [
+      "by Rauw Alejandro",
+      "Mr. Naisgai"
+    ],
+    "streams": "7,378,768",
+    "duration": null,
+    "album": null
+  },
+  {
+    "service": "spotify",
+    "rank": "86",
+    "name": "Dance Monkey",
+    "artists": [
+      "by Tones And I"
+    ],
+    "streams": "7,318,273",
+    "duration": null,
+    "album": null
+  },
+  {
+    "service": "spotify",
+    "rank": "87",
+    "name": "Goosebumps - Remix",
+    "artists": [
+      "by Travis Scott",
+      "HVME"
+    ],
+    "streams": "7,299,670",
+    "duration": null,
+    "album": null
+  },
+  {
+    "service": "spotify",
+    "rank": "88",
+    "name": "WITHOUT YOU",
+    "artists": [
+      "by The Kid LAROI"
+    ],
+    "streams": "7,224,703",
+    "duration": null,
+    "album": null
+  },
+  {
+    "service": "spotify",
+    "rank": "89",
+    "name": "Fulanito",
+    "artists": [
+      "by Becky G",
+      "El Alfa"
+    ],
+    "streams": "7,136,666",
+    "duration": null,
+    "album": null
+  },
+  {
+    "service": "spotify",
+    "rank": "90",
+    "name": "Botella Tras Botella",
+    "artists": [
+      "by Gera MX",
+      "Christian Nodal"
+    ],
+    "streams": "7,054,207",
+    "duration": null,
+    "album": null
+  },
+  {
+    "service": "spotify",
+    "rank": "91",
+    "name": "Head & Heart (feat. MNEK)",
+    "artists": [
+      "by Joel Corry"
+    ],
+    "streams": "7,051,703",
+    "duration": null,
+    "album": null
+  },
+  {
+    "service": "spotify",
+    "rank": "92",
+    "name": "Wants and Needs (feat. Lil Baby)",
+    "artists": [
+      "by Drake"
+    ],
+    "streams": "6,973,986",
+    "duration": null,
+    "album": null
+  },
+  {
+    "service": "spotify",
+    "rank": "93",
+    "name": "Circles",
+    "artists": [
+      "by Post Malone"
+    ],
+    "streams": "6,958,145",
+    "duration": null,
+    "album": null
+  },
+  {
+    "service": "spotify",
+    "rank": "94",
+    "name": "lovely (with Khalid)",
+    "artists": [
+      "by Billie Eilish"
+    ],
+    "streams": "6,945,409",
+    "duration": null,
+    "album": null
+  },
+  {
+    "service": "spotify",
+    "rank": "95",
+    "name": "EL MAKINON",
+    "artists": [
+      "by KAROL G",
+      "Mariah Angeliq"
+    ],
+    "streams": "6,907,977",
+    "duration": null,
+    "album": null
+  },
+  {
+    "service": "spotify",
+    "rank": "96",
+    "name": "Dinero",
+    "artists": [
+      "by Trinidad Cardona"
+    ],
+    "streams": "6,899,376",
+    "duration": null,
+    "album": null
+  },
+  {
+    "service": "spotify",
+    "rank": "97",
+    "name": "Iko Iko (My Bestie)",
+    "artists": [
+      "by Justin Wellington",
+      "Small Jam"
+    ],
+    "streams": "6,876,910",
+    "duration": null,
+    "album": null
+  },
+  {
+    "service": "spotify",
+    "rank": "98",
+    "name": "Before You Go",
+    "artists": [
+      "by Lewis Capaldi"
+    ],
+    "streams": "6,866,999",
+    "duration": null,
+    "album": null
+  },
+  {
+    "service": "spotify",
+    "rank": "99",
+    "name": "7 rings",
+    "artists": [
+      "by Ariana Grande"
+    ],
+    "streams": "6,862,254",
+    "duration": null,
+    "album": null
+  },
+  {
+    "service": "spotify",
+    "rank": "100",
+    "name": "YaMeFui",
+    "artists": [
+      "by Bizarrap",
+      "Duki",
+      "Nicki Nicole"
+    ],
+    "streams": "6,789,274",
+    "duration": null,
+    "album": null
+  },
+  {
+    "service": "spotify",
+    "rank": "101",
+    "name": "Fiel",
+    "artists": [
+      "by Los Legendarios",
+      "Wisin",
+      "Jhay Cortez"
+    ],
+    "streams": "6,773,364",
+    "duration": null,
+    "album": null
+  },
+  {
+    "service": "spotify",
+    "rank": "102",
+    "name": "Come & Go (with Marshmello)",
+    "artists": [
+      "by Juice WRLD"
+    ],
+    "streams": "6,741,666",
+    "duration": null,
+    "album": null
+  },
+  {
+    "service": "spotify",
+    "rank": "103",
+    "name": "BED",
+    "artists": [
+      "by Joel Corry",
+      "RAYE",
+      "David Guetta"
+    ],
+    "streams": "6,709,650",
+    "duration": null,
+    "album": null
+  },
+  {
+    "service": "spotify",
+    "rank": "104",
+    "name": "Here's Your Perfect",
+    "artists": [
+      "by Jamie Miller"
+    ],
+    "streams": "6,704,440",
+    "duration": null,
+    "album": null
+  },
+  {
+    "service": "spotify",
+    "rank": "105",
+    "name": "Oxytocin",
+    "artists": [
+      "by Billie Eilish"
+    ],
+    "streams": "6,682,467",
+    "duration": null,
+    "album": null
+  },
+  {
+    "service": "spotify",
+    "rank": "106",
+    "name": "Nicky Jam: Bzrp Music Sessions, Vol. 41",
+    "artists": [
+      "by Bizarrap",
+      "Nicky Jam"
+    ],
+    "streams": "6,673,586",
+    "duration": null,
+    "album": null
+  },
+  {
+    "service": "spotify",
+    "rank": "107",
+    "name": "Lose",
+    "artists": [
+      "by KSI",
+      "Lil Wayne"
+    ],
+    "streams": "6,643,667",
+    "duration": null,
+    "album": null
+  },
+  {
+    "service": "spotify",
+    "rank": "108",
+    "name": "Believer",
+    "artists": [
+      "by Imagine Dragons"
+    ],
+    "streams": "6,621,049",
+    "duration": null,
+    "album": null
+  },
+  {
+    "service": "spotify",
+    "rank": "109",
+    "name": "ZITTI E BUONI",
+    "artists": [
+      "by M\u00e5neskin"
+    ],
+    "streams": "6,617,403",
+    "duration": null,
+    "album": null
+  },
+  {
+    "service": "spotify",
+    "rank": "110",
+    "name": "ALMAS GEMELAS",
+    "artists": [
+      "by Myke Towers"
+    ],
+    "streams": "6,534,733",
+    "duration": null,
+    "album": null
+  },
+  {
+    "service": "spotify",
+    "rank": "111",
+    "name": "Shape of You",
+    "artists": [
+      "by Ed Sheeran"
+    ],
+    "streams": "6,469,807",
+    "duration": null,
+    "album": null
+  },
+  {
+    "service": "spotify",
+    "rank": "112",
+    "name": "Streets",
+    "artists": [
+      "by Doja Cat"
+    ],
+    "streams": "6,419,945",
+    "duration": null,
+    "album": null
+  },
+  {
+    "service": "spotify",
+    "rank": "113",
+    "name": "SUVs (Black on Black)",
+    "artists": [
+      "by Jack Harlow",
+      "Pooh Shiesty"
+    ],
+    "streams": "6,397,644",
+    "duration": null,
+    "album": null
+  },
+  {
+    "service": "spotify",
+    "rank": "114",
+    "name": "Perfect",
+    "artists": [
+      "by Ed Sheeran"
+    ],
+    "streams": "6,393,743",
+    "duration": null,
+    "album": null
+  },
+  {
+    "service": "spotify",
+    "rank": "115",
+    "name": "Lost Cause",
+    "artists": [
+      "by Billie Eilish"
+    ],
+    "streams": "6,391,914",
+    "duration": null,
+    "album": null
+  },
+  {
+    "service": "spotify",
+    "rank": "116",
+    "name": "Get Into It (Yuh)",
+    "artists": [
+      "by Doja Cat"
+    ],
+    "streams": "6,385,135",
+    "duration": null,
+    "album": null
+  },
+  {
+    "service": "spotify",
+    "rank": "117",
+    "name": "Talking to the Moon",
+    "artists": [
+      "by Bruno Mars"
+    ],
+    "streams": "6,384,085",
+    "duration": null,
+    "album": null
+  },
+  {
+    "service": "spotify",
+    "rank": "118",
+    "name": "Lemonade (feat. Gunna, Don Toliver & NAV)",
+    "artists": [
+      "by Internet Money"
+    ],
+    "streams": "6,367,820",
+    "duration": null,
+    "album": null
+  },
+  {
+    "service": "spotify",
+    "rank": "119",
+    "name": "MORENA",
+    "artists": [
+      "by Luan Santana"
+    ],
+    "streams": "6,365,502",
+    "duration": null,
+    "album": null
+  },
+  {
+    "service": "spotify",
+    "rank": "120",
+    "name": "Sunflower - Spider-Man: Into the Spider-Verse",
+    "artists": [
+      "by Post Malone",
+      "Swae Lee"
+    ],
+    "streams": "6,345,876",
+    "duration": null,
+    "album": null
+  },
+  {
+    "service": "spotify",
+    "rank": "121",
+    "name": "Roses - Imanbek Remix",
+    "artists": [
+      "by SAINt JHN"
+    ],
+    "streams": "6,296,668",
+    "duration": null,
+    "album": null
+  },
+  {
+    "service": "spotify",
+    "rank": "122",
+    "name": "Hold On",
+    "artists": [
+      "by Justin Bieber"
+    ],
+    "streams": "6,244,638",
+    "duration": null,
+    "album": null
+  },
+  {
+    "service": "spotify",
+    "rank": "123",
+    "name": "No Me Conocen (Remix) [con DUKI, Rei & Tiago PZK]",
+    "artists": [
+      "by BANDIDO"
+    ],
+    "streams": "6,220,741",
+    "duration": null,
+    "album": null
+  },
+  {
+    "service": "spotify",
+    "rank": "124",
+    "name": "Smells Like Teen Spirit",
+    "artists": [
+      "by Nirvana"
+    ],
+    "streams": "6,195,568",
+    "duration": null,
+    "album": null
+  },
+  {
+    "service": "spotify",
+    "rank": "125",
+    "name": "Therefore I Am",
+    "artists": [
+      "by Billie Eilish"
+    ],
+    "streams": "6,171,867",
+    "duration": null,
+    "album": null
+  },
+  {
+    "service": "spotify",
+    "rank": "126",
+    "name": "Heather",
+    "artists": [
+      "by Conan Gray"
+    ],
+    "streams": "6,169,512",
+    "duration": null,
+    "album": null
+  },
+  {
+    "service": "spotify",
+    "rank": "127",
+    "name": "512",
+    "artists": [
+      "by Mora",
+      "Jhay Cortez"
+    ],
+    "streams": "6,164,347",
+    "duration": null,
+    "album": null
+  },
+  {
+    "service": "spotify",
+    "rank": "128",
+    "name": "REPEAT IT (with Gunna)",
+    "artists": [
+      "by Lil Tecca"
+    ],
+    "streams": "6,147,989",
+    "duration": null,
+    "album": null
+  },
+  {
+    "service": "spotify",
+    "rank": "129",
+    "name": "Se\u00f1orita",
+    "artists": [
+      "by Shawn Mendes",
+      "Camila Cabello"
+    ],
+    "streams": "6,133,663",
+    "duration": null,
+    "album": null
+  },
+  {
+    "service": "spotify",
+    "rank": "130",
+    "name": "Bezos I",
+    "artists": [
+      "by Bo Burnham"
+    ],
+    "streams": "6,122,521",
+    "duration": null,
+    "album": null
+  },
+  {
+    "service": "spotify",
+    "rank": "131",
+    "name": "you broke me first",
+    "artists": [
+      "by Tate McRae"
+    ],
+    "streams": "6,076,182",
+    "duration": null,
+    "album": null
+  },
+  {
+    "service": "spotify",
+    "rank": "132",
+    "name": "Ficha Limpa",
+    "artists": [
+      "by Gusttavo Lima"
+    ],
+    "streams": "6,060,583",
+    "duration": null,
+    "album": null
+  },
+  {
+    "service": "spotify",
+    "rank": "133",
+    "name": "The Nights",
+    "artists": [
+      "by Avicii"
+    ],
+    "streams": "6,015,609",
+    "duration": null,
+    "album": null
+  },
+  {
+    "service": "spotify",
+    "rank": "134",
+    "name": "LA NOCHE DE ANOCHE",
+    "artists": [
+      "by Bad Bunny",
+      "ROSAL\u00cdA"
+    ],
+    "streams": "5,998,676",
+    "duration": null,
+    "album": null
+  },
+  {
+    "service": "spotify",
+    "rank": "135",
+    "name": "Daddy Issues",
+    "artists": [
+      "by The Neighbourhood"
+    ],
+    "streams": "5,988,804",
+    "duration": null,
+    "album": null
+  },
+  {
+    "service": "spotify",
+    "rank": "136",
+    "name": "Riptide",
+    "artists": [
+      "by Vance Joy"
+    ],
+    "streams": "5,978,848",
+    "duration": null,
+    "album": null
+  },
+  {
+    "service": "spotify",
+    "rank": "137",
+    "name": "Aquelas Coisas",
+    "artists": [
+      "by Jo\u00e3o Gomes"
+    ],
+    "streams": "5,973,012",
+    "duration": null,
+    "album": null
+  },
+  {
+    "service": "spotify",
+    "rank": "138",
+    "name": "Billie Bossa Nova",
+    "artists": [
+      "by Billie Eilish"
+    ],
+    "streams": "5,865,011",
+    "duration": null,
+    "album": null
+  },
+  {
+    "service": "spotify",
+    "rank": "139",
+    "name": "Chosen (feat. Ty Dolla $ign)",
+    "artists": [
+      "by Blxst",
+      "Tyga"
+    ],
+    "streams": "5,846,916",
+    "duration": null,
+    "album": null
+  },
+  {
+    "service": "spotify",
+    "rank": "140",
+    "name": "goosebumps",
+    "artists": [
+      "by Travis Scott"
+    ],
+    "streams": "5,830,807",
+    "duration": null,
+    "album": null
+  },
+  {
+    "service": "spotify",
+    "rank": "141",
+    "name": "Memories",
+    "artists": [
+      "by Maroon 5"
+    ],
+    "streams": "5,818,510",
+    "duration": null,
+    "album": null
+  },
+  {
+    "service": "spotify",
+    "rank": "142",
+    "name": "Bohemian Rhapsody - Remastered 2011",
+    "artists": [
+      "by Queen"
+    ],
+    "streams": "5,805,763",
+    "duration": null,
+    "album": null
+  },
+  {
+    "service": "spotify",
+    "rank": "143",
+    "name": "ROCKSTAR (feat. Roddy Ricch)",
+    "artists": [
+      "by DaBaby"
+    ],
+    "streams": "5,802,360",
+    "duration": null,
+    "album": null
+  },
+  {
+    "service": "spotify",
+    "rank": "144",
+    "name": "Auf & Ab",
+    "artists": [
+      "by Montez"
+    ],
+    "streams": "5,800,915",
+    "duration": null,
+    "album": null
+  },
+  {
+    "service": "spotify",
+    "rank": "145",
+    "name": "Reckless",
+    "artists": [
+      "by Madison Beer"
+    ],
+    "streams": "5,792,919",
+    "duration": null,
+    "album": null
+  },
+  {
+    "service": "spotify",
+    "rank": "146",
+    "name": "34+35",
+    "artists": [
+      "by Ariana Grande"
+    ],
+    "streams": "5,738,928",
+    "duration": null,
+    "album": null
+  },
+  {
+    "service": "spotify",
+    "rank": "147",
+    "name": "Shallow",
+    "artists": [
+      "by Lady Gaga",
+      "Bradley Cooper"
+    ],
+    "streams": "5,737,794",
+    "duration": null,
+    "album": null
+  },
+  {
+    "service": "spotify",
+    "rank": "148",
+    "name": "Another Love",
+    "artists": [
+      "by Tom Odell"
+    ],
+    "streams": "5,721,924",
+    "duration": null,
+    "album": null
+  },
+  {
+    "service": "spotify",
+    "rank": "149",
+    "name": "Getting Older",
+    "artists": [
+      "by Billie Eilish"
+    ],
+    "streams": "5,689,490",
+    "duration": null,
+    "album": null
+  },
+  {
+    "service": "spotify",
+    "rank": "150",
+    "name": "Take Me To Church",
+    "artists": [
+      "by Hozier"
+    ],
+    "streams": "5,687,722",
+    "duration": null,
+    "album": null
+  },
+  {
+    "service": "spotify",
+    "rank": "151",
+    "name": "Little Bit of Love",
+    "artists": [
+      "by Tom Grennan"
+    ],
+    "streams": "5,655,164",
+    "duration": null,
+    "album": null
+  },
+  {
+    "service": "spotify",
+    "rank": "152",
+    "name": "bad guy",
+    "artists": [
+      "by Billie Eilish"
+    ],
+    "streams": "5,631,020",
+    "duration": null,
+    "album": null
+  },
+  {
+    "service": "spotify",
+    "rank": "153",
+    "name": "Haw\u00e1i",
+    "artists": [
+      "by Maluma"
+    ],
+    "streams": "5,629,844",
+    "duration": null,
+    "album": null
+  },
+  {
+    "service": "spotify",
+    "rank": "154",
+    "name": "Miss The Rage (feat. Playboi Carti)",
+    "artists": [
+      "by Trippie Redd"
+    ],
+    "streams": "5,612,801",
+    "duration": null,
+    "album": null
+  },
+  {
+    "service": "spotify",
+    "rank": "155",
+    "name": "Se For Amor",
+    "artists": [
+      "by Jo\u00e3o Gomes",
+      "Vitor Fernandes"
+    ],
+    "streams": "5,579,585",
+    "duration": null,
+    "album": null
+  },
+  {
+    "service": "spotify",
+    "rank": "156",
+    "name": "Counting Stars",
+    "artists": [
+      "by OneRepublic"
+    ],
+    "streams": "5,573,806",
+    "duration": null,
+    "album": null
+  },
+  {
+    "service": "spotify",
+    "rank": "157",
+    "name": "Over The Top (feat. Drake)",
+    "artists": [
+      "by Smiley"
+    ],
+    "streams": "5,565,410",
+    "duration": null,
+    "album": null
+  },
+  {
+    "service": "spotify",
+    "rank": "158",
+    "name": "Wake Me Up",
+    "artists": [
+      "by Avicii"
+    ],
+    "streams": "5,562,213",
+    "duration": null,
+    "album": null
+  },
+  {
+    "service": "spotify",
+    "rank": "159",
+    "name": "Pain",
+    "artists": [
+      "by PinkPantheress"
+    ],
+    "streams": "5,542,751",
+    "duration": null,
+    "album": null
+  },
+  {
+    "service": "spotify",
+    "rank": "160",
+    "name": "Yellow",
+    "artists": [
+      "by Coldplay"
+    ],
+    "streams": "5,539,287",
+    "duration": null,
+    "album": null
+  },
+  {
+    "service": "spotify",
+    "rank": "161",
+    "name": "Paradise (feat. Dermot Kennedy)",
+    "artists": [
+      "by MEDUZA"
+    ],
+    "streams": "5,514,925",
+    "duration": null,
+    "album": null
+  },
+  {
+    "service": "spotify",
+    "rank": "162",
+    "name": "Love Runs Out (feat. G-Eazy & Sasha Alex Sloan)",
+    "artists": [
+      "by Martin Garrix"
+    ],
+    "streams": "5,490,586",
+    "duration": null,
+    "album": null
+  },
+  {
+    "service": "spotify",
+    "rank": "163",
+    "name": "Ram Pam Pam",
+    "artists": [
+      "by Natti Natasha",
+      "Becky G"
+    ],
+    "streams": "5,481,430",
+    "duration": null,
+    "album": null
+  },
+  {
+    "service": "spotify",
+    "rank": "164",
+    "name": "Your Power",
+    "artists": [
+      "by Billie Eilish"
+    ],
+    "streams": "5,466,226",
+    "duration": null,
+    "album": null
+  },
+  {
+    "service": "spotify",
+    "rank": "165",
+    "name": "Dark Red",
+    "artists": [
+      "by Steve Lacy"
+    ],
+    "streams": "5,425,252",
+    "duration": null,
+    "album": null
+  },
+  {
+    "service": "spotify",
+    "rank": "166",
+    "name": "Mr. Brightside",
+    "artists": [
+      "by The Killers"
+    ],
+    "streams": "5,407,367",
+    "duration": null,
+    "album": null
+  },
+  {
+    "service": "spotify",
+    "rank": "167",
+    "name": "Say You Won't Let Go",
+    "artists": [
+      "by James Arthur"
+    ],
+    "streams": "5,406,989",
+    "duration": null,
+    "album": null
+  },
+  {
+    "service": "spotify",
+    "rank": "168",
+    "name": "Sal y Perrea",
+    "artists": [
+      "by Sech"
+    ],
+    "streams": "5,403,221",
+    "duration": null,
+    "album": null
+  },
+  {
+    "service": "spotify",
+    "rank": "169",
+    "name": "Lucid Dreams",
+    "artists": [
+      "by Juice WRLD"
+    ],
+    "streams": "5,365,517",
+    "duration": null,
+    "album": null
+  },
+  {
+    "service": "spotify",
+    "rank": "170",
+    "name": "Baby Me Atende",
+    "artists": [
+      "by Matheus Fernandes",
+      "Dilsinho"
+    ],
+    "streams": "5,353,062",
+    "duration": null,
+    "album": null
+  },
+  {
+    "service": "spotify",
+    "rank": "171",
+    "name": "Fancy Like",
+    "artists": [
+      "by Walker Hayes"
+    ],
+    "streams": "5,349,408",
+    "duration": null,
+    "album": null
+  },
+  {
+    "service": "spotify",
+    "rank": "172",
+    "name": "Rol\u00ea",
+    "artists": [
+      "by Tarc\u00edsio do Acordeon",
+      "Marcynho Sensa\u00e7\u00e3o"
+    ],
+    "streams": "5,341,165",
+    "duration": null,
+    "album": null
+  },
+  {
+    "service": "spotify",
+    "rank": "173",
+    "name": "Every Breath You Take",
+    "artists": [
+      "by The Police"
+    ],
+    "streams": "5,340,095",
+    "duration": null,
+    "album": null
+  },
+  {
+    "service": "spotify",
+    "rank": "174",
+    "name": "WAP (feat. Megan Thee Stallion)",
+    "artists": [
+      "by Cardi B"
+    ],
+    "streams": "5,318,492",
+    "duration": null,
+    "album": null
+  },
+  {
+    "service": "spotify",
+    "rank": "175",
+    "name": "Dreams - 2004 Remaster",
+    "artists": [
+      "by Fleetwood Mac"
+    ],
+    "streams": "5,290,928",
+    "duration": null,
+    "album": null
+  },
+  {
+    "service": "spotify",
+    "rank": "176",
+    "name": "Never Going Home",
+    "artists": [
+      "by Kungs"
+    ],
+    "streams": "5,249,332",
+    "duration": null,
+    "album": null
+  },
+  {
+    "service": "spotify",
+    "rank": "177",
+    "name": "Another One Bites The Dust - Remastered 2011",
+    "artists": [
+      "by Queen"
+    ],
+    "streams": "5,248,513",
+    "duration": null,
+    "album": null
+  },
+  {
+    "service": "spotify",
+    "rank": "178",
+    "name": "Wasted Love (feat. Lagique)",
+    "artists": [
+      "by Ofenbach"
+    ],
+    "streams": "5,221,425",
+    "duration": null,
+    "album": null
+  },
+  {
+    "service": "spotify",
+    "rank": "179",
+    "name": "All of Me",
+    "artists": [
+      "by John Legend"
+    ],
+    "streams": "5,178,273",
+    "duration": null,
+    "album": null
+  },
+  {
+    "service": "spotify",
+    "rank": "180",
+    "name": "enough for you",
+    "artists": [
+      "by Olivia Rodrigo"
+    ],
+    "streams": "5,178,106",
+    "duration": null,
+    "album": null
+  },
+  {
+    "service": "spotify",
+    "rank": "181",
+    "name": "The Hills",
+    "artists": [
+      "by The Weeknd"
+    ],
+    "streams": "5,158,682",
+    "duration": null,
+    "album": null
+  },
+  {
+    "service": "spotify",
+    "rank": "182",
+    "name": "Como Si No Importara",
+    "artists": [
+      "by Emilia",
+      "Duki"
+    ],
+    "streams": "5,152,758",
+    "duration": null,
+    "album": null
+  },
+  {
+    "service": "spotify",
+    "rank": "183",
+    "name": "Remember",
+    "artists": [
+      "by Becky Hill",
+      "David Guetta"
+    ],
+    "streams": "5,135,316",
+    "duration": null,
+    "album": null
+  },
+  {
+    "service": "spotify",
+    "rank": "184",
+    "name": "Adore You",
+    "artists": [
+      "by Harry Styles"
+    ],
+    "streams": "5,130,447",
+    "duration": null,
+    "album": null
+  },
+  {
+    "service": "spotify",
+    "rank": "185",
+    "name": "Jocelyn Flores",
+    "artists": [
+      "by XXXTENTACION"
+    ],
+    "streams": "5,127,501",
+    "duration": null,
+    "album": null
+  },
+  {
+    "service": "spotify",
+    "rank": "186",
+    "name": "t r a n s p a r e n t s o u l feat. Travis Barker",
+    "artists": [
+      "by WILLOW"
+    ],
+    "streams": "5,124,305",
+    "duration": null,
+    "album": null
+  },
+  {
+    "service": "spotify",
+    "rank": "187",
+    "name": "What You Know Bout Love",
+    "artists": [
+      "by Pop Smoke"
+    ],
+    "streams": "5,123,782",
+    "duration": null,
+    "album": null
+  },
+  {
+    "service": "spotify",
+    "rank": "188",
+    "name": "The Real Slim Shady",
+    "artists": [
+      "by Eminem"
+    ],
+    "streams": "5,122,282",
+    "duration": null,
+    "album": null
+  },
+  {
+    "service": "spotify",
+    "rank": "189",
+    "name": "my future",
+    "artists": [
+      "by Billie Eilish"
+    ],
+    "streams": "5,107,244",
+    "duration": null,
+    "album": null
+  },
+  {
+    "service": "spotify",
+    "rank": "190",
+    "name": "Dandelions",
+    "artists": [
+      "by Ruth B."
+    ],
+    "streams": "5,104,867",
+    "duration": null,
+    "album": null
+  },
+  {
+    "service": "spotify",
+    "rank": "191",
+    "name": "Runaway",
+    "artists": [
+      "by AURORA"
+    ],
+    "streams": "5,099,377",
+    "duration": null,
+    "album": null
+  },
+  {
+    "service": "spotify",
+    "rank": "192",
+    "name": "I Didn't Change My Number",
+    "artists": [
+      "by Billie Eilish"
+    ],
+    "streams": "5,097,123",
+    "duration": null,
+    "album": null
+  },
+  {
+    "service": "spotify",
+    "rank": "193",
+    "name": "Tell Em",
+    "artists": [
+      "by Cochise",
+      "$NOT"
+    ],
+    "streams": "5,091,757",
+    "duration": null,
+    "album": null
+  },
+  {
+    "service": "spotify",
+    "rank": "194",
+    "name": "For The Night (feat. Lil Baby & DaBaby)",
+    "artists": [
+      "by Pop Smoke"
+    ],
+    "streams": "5,074,140",
+    "duration": null,
+    "album": null
+  },
+  {
+    "service": "spotify",
+    "rank": "195",
+    "name": "Calling My Phone",
+    "artists": [
+      "by Lil Tjay",
+      "6LACK"
+    ],
+    "streams": "5,056,683",
+    "duration": null,
+    "album": null
+  },
+  {
+    "service": "spotify",
+    "rank": "196",
+    "name": "death bed (coffee for your head)",
+    "artists": [
+      "by Powfu",
+      "beabadoobee"
+    ],
+    "streams": "5,053,737",
+    "duration": null,
+    "album": null
+  },
+  {
+    "service": "spotify",
+    "rank": "197",
+    "name": "Bilmem Mi?",
+    "artists": [
+      "by Sefo"
+    ],
+    "streams": "5,046,558",
+    "duration": null,
+    "album": null
+  },
+  {
+    "service": "spotify",
+    "rank": "198",
+    "name": "Blaues Licht",
+    "artists": [
+      "by RAF Camora",
+      "Bonez MC"
+    ],
+    "streams": "5,043,139",
+    "duration": null,
+    "album": null
+  },
+  {
+    "service": "spotify",
+    "rank": "199",
+    "name": "Up",
+    "artists": [
+      "by Cardi B"
+    ],
+    "streams": "5,024,458",
+    "duration": null,
+    "album": null
+  },
+  {
+    "service": "spotify",
+    "rank": "200",
+    "name": "One Dance",
+    "artists": [
+      "by Drake",
+      "WizKid",
+      "Kyla"
+    ],
+    "streams": "5,016,401",
+    "duration": null,
+    "album": null
+  },
+  {
+    "service": "yandex",
+    "rank": "1",
+    "name": "  \u0421\u0442\u0435\u043a\u043b\u044f\u043d\u043d\u0430\u044f ",
+    "artists": [
+      "GUMA"
+    ],
+    "streams": null,
+    "duration": "2:46",
+    "album": null
+  },
+  {
+    "service": "yandex",
+    "rank": "2",
+    "name": "  \u042f \u0432 \u043c\u043e\u043c\u0435\u043d\u0442\u0435 ",
+    "artists": [
+      "\u0414\u0436\u0430\u0440\u0430\u0445\u043e\u0432",
+      "Markul"
+    ],
+    "streams": null,
+    "duration": "2:06",
+    "album": null
+  },
+  {
+    "service": "yandex",
+    "rank": "3",
+    "name": "  \u0424\u0435\u0434\u0435\u0440\u0438\u043a\u043e \u0424\u0435\u043b\u043b\u0438\u043d\u0438 ",
+    "artists": [
+      "Galibri & Mavik"
+    ],
+    "streams": null,
+    "duration": "2:16",
+    "album": null
+  },
+  {
+    "service": "yandex",
+    "rank": "4",
+    "name": "  \u041f\u0442\u0438\u0447\u043a\u0430 ",
+    "artists": [
+      "HammAli & Navai"
+    ],
+    "streams": null,
+    "duration": "3:10",
+    "album": null
+  },
+  {
+    "service": "yandex",
+    "rank": "5",
+    "name": "  Baby mama ",
+    "artists": [
+      "\u0421\u043a\u0440\u0438\u043f\u0442\u043e\u043d\u0438\u0442",
+      "\u0420\u0430\u0439\u0434\u0430"
+    ],
+    "streams": null,
+    "duration": "3:51",
+    "album": null
+  },
+  {
+    "service": "yandex",
+    "rank": "6",
+    "name": "  \u041f\u0443\u0448\u043a\u0430 ",
+    "artists": [
+      "10AGE"
+    ],
+    "streams": null,
+    "duration": "3:23",
+    "album": null
+  },
+  {
+    "service": "yandex",
+    "rank": "7",
+    "name": "  \u041f\u043e\u043f\u043e\u043b\u0430\u043c ",
+    "artists": [
+      "BRANYA",
+      "MACAN"
+    ],
+    "streams": null,
+    "duration": "2:21",
+    "album": null
+  },
+  {
+    "service": "yandex",
+    "rank": "8",
+    "name": "  \u042f \u0432 \u043c\u043e\u043c\u0435\u043d\u0442\u0435 2 ",
+    "artists": [
+      "Mary Gu",
+      "\u0414\u0436\u0430\u0440\u0430\u0445\u043e\u0432"
+    ],
+    "streams": null,
+    "duration": "2:20",
+    "album": null
+  },
+  {
+    "service": "yandex",
+    "rank": "9",
+    "name": "  Rampampam ",
+    "artists": [
+      "Minelli"
+    ],
+    "streams": null,
+    "duration": "3:20",
+    "album": null
+  },
+  {
+    "service": "yandex",
+    "rank": "10",
+    "name": "  STAY ",
+    "artists": [
+      "The Kid LAROI",
+      "Justin Bieber"
+    ],
+    "streams": null,
+    "duration": "2:21",
+    "album": null
+  },
+  {
+    "service": "yandex",
+    "rank": "11",
+    "name": "  Love Tonight feat. Sakso ",
+    "artists": [
+      "Antwerp House Squad",
+      "Sakso"
+    ],
+    "streams": null,
+    "duration": "2:52",
+    "album": null
+  },
+  {
+    "service": "yandex",
+    "rank": "12",
+    "name": "  Beggin' ",
+    "artists": [
+      "M\u00e5neskin"
+    ],
+    "streams": null,
+    "duration": "3:31",
+    "album": null
+  },
+  {
+    "service": "yandex",
+    "rank": "13",
+    "name": "  \u041f\u043e\u0448\u043b\u0430 \u0436\u0430\u0440\u0430 ",
+    "artists": [
+      "GAYAZOV$ BROTHER$",
+      "Filatov & Karas"
+    ],
+    "streams": null,
+    "duration": "2:49",
+    "album": null
+  },
+  {
+    "service": "yandex",
+    "rank": "14",
+    "name": "  I WANNA BE YOUR SLAVE ",
+    "artists": [
+      "M\u00e5neskin"
+    ],
+    "streams": null,
+    "duration": "2:53",
+    "album": null
+  },
+  {
+    "service": "yandex",
+    "rank": "15",
+    "name": "  \u0417\u0430\u043c\u0430\u043d\u0447\u0438\u0432\u0430\u044f ",
+    "artists": [
+      "MATRANG"
+    ],
+    "streams": null,
+    "duration": "3:35",
+    "album": null
+  },
+  {
+    "service": "yandex",
+    "rank": "16",
+    "name": "  \u042f \u0442\u0430\u043a \u0441\u043e\u0441\u043a\u0443\u0447\u0438\u043b\u0441\u044f ",
+    "artists": [
+      "\u041f\u043e\u0440\u043d\u043e\u0444\u0438\u043b\u044c\u043c\u044b"
+    ],
+    "streams": null,
+    "duration": "6:48",
+    "album": null
+  },
+  {
+    "service": "yandex",
+    "rank": "17",
+    "name": "  \u041e\u043d\u0430 \u043d\u0435 \u044f ",
+    "artists": [
+      "Artik & Asti"
+    ],
+    "streams": null,
+    "duration": "3:33",
+    "album": null
+  },
+  {
+    "service": "yandex",
+    "rank": "18",
+    "name": "  INDUSTRY BABY ",
+    "artists": [
+      "Lil Nas X",
+      "Jack Harlow"
+    ],
+    "streams": null,
+    "duration": "3:31",
+    "album": null
+  },
+  {
+    "service": "yandex",
+    "rank": "19",
+    "name": "  \u0422\u044b \u0431\u044b\u043b\u0430 \u043f\u0440\u0430\u0432\u0430 ",
+    "artists": [
+      "\u0411\u0430\u0441\u0442\u0430"
+    ],
+    "streams": null,
+    "duration": "1:58",
+    "album": null
+  },
+  {
+    "service": "yandex",
+    "rank": "20",
+    "name": "  Indie Rock (Vogue) RUS ",
+    "artists": [
+      "LOBODA"
+    ],
+    "streams": null,
+    "duration": "3:24",
+    "album": null
+  },
+  {
+    "service": "yandex",
+    "rank": "21",
+    "name": "  Close Eyes ",
+    "artists": [
+      "DVRST"
+    ],
+    "streams": null,
+    "duration": "2:12",
+    "album": null
+  },
+  {
+    "service": "yandex",
+    "rank": "22",
+    "name": "  \u0422\u044b \u0434\u0430\u043b\u0435\u043a\u043e ",
+    "artists": [
+      "SLAVA MARLOW"
+    ],
+    "streams": null,
+    "duration": "2:25",
+    "album": null
+  },
+  {
+    "service": "deezer",
+    "rank": "1",
+    "name": "STAY",
+    "artists": [
+      "The Kid Laroi",
+      "Justin Bieber"
+    ],
+    "streams": null,
+    "duration": "2:21",
+    "album": "STAY"
+  },
+  {
+    "service": "deezer",
+    "rank": "2",
+    "name": "Beggin'",
+    "artists": [
+      "M\u00e5neskin"
+    ],
+    "streams": null,
+    "duration": "3:31",
+    "album": "Chosen"
+  },
+  {
+    "service": "deezer",
+    "rank": "3",
+    "name": "INDUSTRY BABY",
+    "artists": [
+      "Lil Nas X",
+      "Jack Harlow"
+    ],
+    "streams": null,
+    "duration": "3:32",
+    "album": "INDUSTRY BABY"
+  },
+  {
+    "service": "deezer",
+    "rank": "4",
+    "name": "Bad Habits",
+    "artists": [
+      "Ed Sheeran"
+    ],
+    "streams": null,
+    "duration": "3:51",
+    "album": "Bad Habits"
+  },
+  {
+    "service": "deezer",
+    "rank": "5",
+    "name": "Blinding Lights",
+    "artists": [
+      "The Weeknd"
+    ],
+    "streams": null,
+    "duration": "3:20",
+    "album": "After Hours"
+  },
+  {
+    "service": "deezer",
+    "rank": "6",
+    "name": "MONTERO (Call Me By Your Name)",
+    "artists": [
+      "Lil Nas X"
+    ],
+    "streams": null,
+    "duration": "2:17",
+    "album": "MONTERO (Call Me By Your Name)"
+  },
+  {
+    "service": "deezer",
+    "rank": "7",
+    "name": "Pepas",
+    "artists": [
+      "Farruko"
+    ],
+    "streams": null,
+    "duration": "4:47",
+    "album": "Pepas"
+  },
+  {
+    "service": "deezer",
+    "rank": "8",
+    "name": "good 4 u",
+    "artists": [
+      "Olivia Rodrigo"
+    ],
+    "streams": null,
+    "duration": "2:58",
+    "album": "SOUR"
+  },
+  {
+    "service": "deezer",
+    "rank": "9",
+    "name": "I WANNA BE YOUR SLAVE",
+    "artists": [
+      "M\u00e5neskin"
+    ],
+    "streams": null,
+    "duration": "2:53",
+    "album": "Teatro d'ira - Vol. I"
+  },
+  {
+    "service": "deezer",
+    "rank": "10",
+    "name": "Todo De Ti",
+    "artists": [
+      "Rauw Alejandro"
+    ],
+    "streams": null,
+    "duration": "3:19",
+    "album": "Todo De Ti"
+  },
+  {
+    "service": "deezer",
+    "rank": "11",
+    "name": "Peaches",
+    "artists": [
+      "Justin Bieber",
+      "Daniel Caesar",
+      "Giveon"
+    ],
+    "streams": null,
+    "duration": "3:18",
+    "album": "Justice"
+  },
+  {
+    "service": "deezer",
+    "rank": "12",
+    "name": "Yonaguni",
+    "artists": [
+      "Bad Bunny"
+    ],
+    "streams": null,
+    "duration": "3:26",
+    "album": "Yonaguni"
+  },
+  {
+    "service": "deezer",
+    "rank": "13",
+    "name": "Dance Monkey",
+    "artists": [
+      "Tones and I"
+    ],
+    "streams": null,
+    "duration": "3:29",
+    "album": "The Kids Are Coming"
+  },
+  {
+    "service": "deezer",
+    "rank": "14",
+    "name": "Astronaut In The Ocean",
+    "artists": [
+      "Masked Wolf"
+    ],
+    "streams": null,
+    "duration": "2:12",
+    "album": "Astronaut In The Ocean"
+  }
+]
