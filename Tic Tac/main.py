@@ -53,7 +53,7 @@ def foo(btn):
                 end = True
 
     press_count += 1
-    print('press:', press_count)
+    #print('press:', press_count)
 
     if not is_win(x_pos) and not is_win(null_pos) and press_count == 9:
         temp['text'] = 'Ничья'

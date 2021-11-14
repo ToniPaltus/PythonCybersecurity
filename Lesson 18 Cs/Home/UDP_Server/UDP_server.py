@@ -14,7 +14,7 @@ import socket
 sock = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
 
 #            Ваш IP адрес     ПОРТ
-sock.bind(('192.168.0.101', 8080))
+sock.bind(('192.168.0.192', 8080))
 # В чате может быть много людей, и их никнеймы нужно хранить
 client = []# Список где храним адреса клиентов/ники людей
 print('Start Server')

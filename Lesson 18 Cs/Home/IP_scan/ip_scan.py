@@ -66,7 +66,7 @@ else:
     ping_com = "ping -c 1 "
 #############################################
 t1 = datetime.now()  # засечь время
-print("Scanning in Progress:")
+print("\nScanning in Progress:")
 
 for ip in range(start_point, end_point):
     if ip == int(net_split[3]):
